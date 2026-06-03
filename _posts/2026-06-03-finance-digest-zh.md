@@ -6,150 +6,247 @@ lang: zh
 kind: finance
 ---
 
-> 昨日港股整体强于美股，热度集中在 科技 / 综合企业。
+> 美股由AI半导体、边缘网络和医疗个股业绩/临床催化带动，港股则明显偏向科技小盘股轮动，其中电子元件最强。
 
 ## 先看结论
 
 - 美股主线：科技。
 - 港股主线：科技。
 - 全市场热度最高方向：科技。
-- 当前总龙头：0894.HK（MAN YUE TECH，+35.14%）。
+- 当前总龙头：9609.HK（HAIWEI ELEC（海伟电子），+48.22%）。
 
 ## 板块热度榜
 
-1. 科技：29 家上榜，平均 +17.07% ，龙头 0894.HK（MAN YUE TECH）
-   热点原因：该方向上榜公司最多，且平均涨幅领先，说明资金集中度最高。
-2. 综合企业：4 家上榜，平均 +24.80% ，龙头 LEGN（Legend Biotech Corp）
-3. 工业：2 家上榜，平均 +102.52% ，龙头 2258.HK（WATTS INT'L）
-4. 医疗健康：1 家上榜，平均 +16.97% ，龙头 1548.HK（GENSCRIPT BIO）
-5. 材料：1 家上榜，平均 +13.61% ，龙头 UEC（Uranium Energy Corp）
+1. 科技：9 家上榜，平均 +20.41% ，龙头 9609.HK（HAIWEI ELEC（海伟电子））
+   热点原因：涨幅榜中科技股数量最多，且覆盖半导体、电子元件、芯片分销、边缘网络、光通信等多个分支；美股有AI相关明确催化，港股有低位小盘电子元件补涨，形成跨市场共振。
+2. 信息技术：9 家上榜，平均 +15.80% ，龙头 1679.HK（RISECOMM GP（瑞斯康集团））
+3. 医疗保健：4 家上榜，平均 +8.82% ，龙头 ABVX（Abivax Sa（Abivax SA））
+4. 工业：3 家上榜，平均 +25.45% ，龙头 0368.HK（SUPERLAND GROUP（德合集团））
+5. 通信服务：3 家上榜，平均 +21.19% ，龙头 1723.HK（MOON INC（Moon Inc.））
 
 ## 美股分类看板
 
-### 科技（17家｜平均 +16.05%｜龙头 MRVL）
-1. [`MRVL`](https://finance.yahoo.com/quote/MRVL) Marvell Technology Inc | +32.52% | 半导体及设备
-   - 主营：Marvell Technology、Inc
-   - 核心产品：主要产品/服务包括data infrastructure 半导体 soluti…
-   - 催化：Marvell stock soars as Nvidia CEO calls c…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`AEHR`](https://finance.yahoo.com/quote/AEHR) Aehr Test Systems | +20.70% | 半导体及设备
-   - 主营：Aehr Test 系统、Inc
-   - 核心产品：Aehr Test 系统、Inc
-   - 催化：公司披露了业绩或指引利好，新合同或订单进展带动情绪，新产品或项目进展带来催化
-   - 判断：更像基本面兑现，不只是题材炒作
-3. [`HPE`](https://finance.yahoo.com/quote/HPE) Hewlett Packard Enterprise Co | +19.47% | 综合企业
-   - 主营：Hewlett Packard Enterprise 公司、连同其子公司、开发…
-   - 核心产品：Hewlett Packard Enterprise 公司、连同其子公司、开发…
-   - 催化：HPE stock explodes 面向 one simple reason
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-其余上榜：PENG +18.32%；COHR +17.63%；TE +15.66%；WOLF +15.32% 等14家
+### 科技（4家｜平均 +14.65%｜龙头 NVTS）
+1. [`NVTS`](https://finance.yahoo.com/quote/NVTS) Navitas Semiconductor Corp | +24.90% | 半导体及设备
+   - 主营：Navitas开发并销售功率半导体芯片
+   - 核心产品：主营氮化镓功率IC及相关电源芯片
+   - 催化：业绩或指引利好叠加合作消息，提升市场关注度
+   - 判断：更像基本面兑现，并非单纯题材炒作
+2. [`MXL`](https://finance.yahoo.com/quote/MXL) Maxlinear Inc | +12.21% | 半导体及设备
+   - 主营：MaxLinear提供通信系统级芯片方案
+   - 核心产品：主营宽带、连接、基础设施等通信SoC
+   - 催化：新合同或订单进展提振情绪，项目推进形成催化
+   - 判断：订单催化明确，后续需看持续落地
+3. [`NN`](https://finance.yahoo.com/quote/NN) Nextnav Inc | +12.02% | 软件
+   - 主营：NN提供定位、导航和授时PNT技术
+   - 核心产品：主要产品包括TerraPoiNT三维PNT系统
+   - 催化：公司披露业绩或指引利好，推动市场重估
+   - 判断：更像基本面兑现，并非单纯题材炒作
+其余上榜：IPGP +9.46%
 
-### 综合企业（2家｜平均 +27.50%｜龙头 LEGN）
-1. [`LEGN`](https://finance.yahoo.com/quote/LEGN) Legend Biotech Corp | +42.22% | 生物科技
-   - 主营：Legend Biotech Corporation、through its…
-   - 核心产品：主要产品/服务包括allogeneic gamma delta CAR-T 和…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像Health Care板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`CHRN`](https://finance.yahoo.com/quote/CHRN) Ekso Bionics Holdings Inc | +12.79% | 综合企业
-   - 主营：ChronoScale Corporation 设计 和 开发 a compu…
-   - 核心产品：主要产品/服务包括和 开发 a compute 平台
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像Health Care板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 医疗保健（4家｜平均 +8.82%｜龙头 ABVX）
+1. [`ABVX`](https://finance.yahoo.com/quote/ABVX) Abivax Sa（Abivax SA） | +14.94% | 生物科技
+   - 主营：法国临床期生物科技公司，聚焦炎症免疫
+   - 核心产品：核心药物obefazimod，主攻肠炎适应症
+   - 催化：关键药物试验现癌症病例，市场担忧美国获批受阻
+   - 判断：临床安全性疑云未清，短线仍高波动
+2. [`TGTX`](https://finance.yahoo.com/quote/TGTX) Tg Therapeutics Inc（TG治疗公司） | +9.17% | 生物技术
+   - 主营：专注B细胞疾病疗法的商业化生物药企
+   - 核心产品：MS药Briumvi及BTK、双抗管线
+   - 催化：Briumvi皮下注射研究安全性接近静脉剂型
+   - 判断：利好明确，关注放量后能否守突破位
+3. [`SYRE`](https://finance.yahoo.com/quote/SYRE) Spyre Therapeutics Inc（Spyre治疗） | +5.68% | 生物技术
+   - 主营：聚焦IBD和风湿病抗体疗法药企
+   - 核心产品：SPY001、SPY002、SPY003及抗体组合疗法
+   - 催化：SPY003授权范围扩大带来管线想象，稀释担忧仍存
+   - 判断：催化密集但高风险，轻仓观察
+其余上榜：APGE +5.49%
 
-### 材料（1家｜平均 +13.61%｜龙头 UEC）
-1. [`UEC`](https://finance.yahoo.com/quote/UEC) Uranium Energy Corp | +13.61% | 综合企业
-   - 主营：Uranium Energy Corp
-   - 核心产品：Uranium Energy Corp
-   - 催化：公司披露了业绩或指引利好，新产品或项目进展带来催化
-   - 判断：更像基本面兑现，不只是题材炒作
+### 信息技术（4家｜平均 +6.60%｜龙头 MRVL）
+1. [`MRVL`](https://finance.yahoo.com/quote/MRVL) Marvell Technology Inc（美满电子科技） | +7.05% | 半导体与半导体设备
+   - 主营：数据基础设施芯片与定制ASIC供应商
+   - 核心产品：以太网芯片、互连、光通信DSP和定制ASIC
+   - 催化：英伟达CEO看好其AI定制芯片前景，引爆买盘
+   - 判断：AI逻辑升温，短线顺势但防高位震荡
+2. [`AEHR`](https://finance.yahoo.com/quote/AEHR) Aehr Test Systems（艾尔测试系统） | +7.01% | 半导体与半导体设备
+   - 主营：晶圆级半导体测试与老化设备厂商
+   - 核心产品：FOX测试系统、WaferPak和DiePak载具
+   - 催化：获超大规模AI客户4100万美元量产订单
+   - 判断：订单验证成长性，回踩不破均线更健康
+3. [`INTC`](https://finance.yahoo.com/quote/INTC) Intel Corp（英特尔） | +6.30% | 半导体
+   - 主营：全球老牌芯片设计制造龙头
+   - 核心产品：CPU、服务器芯片、GPU、代工和车载方案
+   - 催化：AI交易扩散至老牌科技股，半导体板块情绪回暖
+   - 判断：转型弹性仍在，需看代工进展
+其余上榜：WOLF +6.05%
+
+### 可选消费（2家｜平均 +6.86%｜龙头 GME）
+1. [`GME`](https://finance.yahoo.com/quote/GME) Gamestop Corp（游戏驿站） | +8.27% | 专业零售
+   - 主营：美国游戏、收藏品和娱乐产品零售商
+   - 核心产品：游戏软硬件、配件、收藏品和电商零售
+   - 催化：一季度利润创纪录，并宣布20亿美元回购
+   - 判断：业绩与回购托底，但波动仍偏投机
+2. [`BWA`](https://finance.yahoo.com/quote/BWA) Borgwarner Inc（博格华纳） | +5.46% | 汽车零部件
+   - 主营：全球动力系统供应商
+   - 核心产品：涡轮增压器、电驱、热管理和充电系统
+   - 催化：美股创新高，叠加数据中心供电转型预期
+   - 判断：估值修复或延续，关注订单
+
+### 非必需消费品（2家｜平均 +5.99%｜龙头 KMX）
+1. [`KMX`](https://finance.yahoo.com/quote/KMX) Carmax Inc（卡麦斯） | +6.35% | 汽车零售
+   - 主营：美国大型二手车零售商
+   - 核心产品：二手车销售、拍卖、延保及汽车金融
+   - 催化：盈利超预期概率获看好，维权投资和零售情绪提振
+   - 判断：估值修复可跟踪，业绩前慎追高
+2. [`VGNT`](https://finance.yahoo.com/quote/VGNT) Versigent Ltd（Versigent） | +5.64% | 汽车零部件
+   - 主营：汽车与能源电气架构供应商
+   - 核心产品：线束、连接方案、配电系统和充电方案
+   - 催化：定期分红叠加2.5亿美元回购，资本回报提振股价
+   - 判断：回购托底明显，仍看订单与债务
+
+### 医疗健康（1家｜平均 +16.80%｜龙头 MMED）
+1. [`MMED`](https://finance.yahoo.com/quote/MMED) Minimed Group, Inc. | +16.80% | 综合企业
+   - 主营：MMED是一家医疗技术研发与生产公司
+   - 核心产品：产品涵盖胰岛素相关医疗技术及设备
+   - 催化：公司披露业绩或指引利好，带动股价反应
+   - 判断：更像基本面兑现，并非单纯题材炒作
+
+### 通信服务（1家｜平均 +8.41%｜龙头 IRDM）
+1. [`IRDM`](https://finance.yahoo.com/quote/IRDM) Iridium Communications Inc（铱星通信） | +8.41% | 无线电信服务
+   - 主营：全球移动卫星语音与数据通信服务商
+   - 核心产品：卫星电话、宽带终端、物联网和定位服务
+   - 催化：SpaceX上市预期带动商业航天与卫星通信板块
+   - 判断：情绪修复偏强，追高看板块热度延续
+
+### 工业（1家｜平均 +6.93%｜龙头 STRL）
+1. [`STRL`](https://finance.yahoo.com/quote/STRL) Sterling Infrastructure Inc（斯特林基础设施） | +6.93% | 建筑与工程
+   - 主营：美国电子基础设施与交通工程承包商
+   - 核心产品：数据中心场地开发、交通工程和混凝土基础
+   - 催化：业绩强劲，并受AI数据中心基建需求支撑
+   - 判断：趋势仍强，等待整理后的续涨信号
+
+### 能源（1家｜平均 +6.18%｜龙头 CLMT）
+1. [`CLMT`](https://finance.yahoo.com/quote/CLMT) Calumet Inc（卡鲁梅特） | +6.18% | 特种炼化与可再生燃料
+   - 主营：北美特种油品与可再生燃料商
+   - 核心产品：润滑油、蜡、溶剂、可再生柴油和航煤
+   - 催化：油价走强带动能源股，炼化和燃料利润预期改善
+   - 判断：油价驱动偏强，亏损扩大需警惕
 
 
 ## 港股分类看板
 
-### 科技（12家｜平均 +18.52%｜龙头 0894.HK）
-1. [`0894.HK`](https://finance.yahoo.com/quote/0894.HK) MAN YUE TECH | +35.14% | 综合企业
-   - 主营：Man Yue Technology Holdings Limited、an…
-   - 核心产品：主要产品/服务包括和 trades
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像科技板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`1679.HK`](https://finance.yahoo.com/quote/1679.HK) RISECOMM GP | +28.06% | 半导体
-   - 主营：Risecomm Group Holdings Limited、an 投资控股…
-   - 核心产品：主要产品/服务包括和 开发 application-specific inte…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像科技板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-3. [`1879.HK`](https://finance.yahoo.com/quote/1879.HK) XIZHI TECH-P | +22.03% | 通信设备
-   - 主营：设计、开发、和 生产 optoelectronic hybrid comput…
-   - 核心产品：The 公司's 产品 include a photonic computin…
-   - 催化：A Look At Shanghai Xizhi Technology’s Val…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-其余上榜：0117.HK +20.47%；0889.HK +19.18%；6869.HK +16.92%；6166.HK +14.72% 等9家
+### 科技（5家｜平均 +25.01%｜龙头 9609.HK）
+1. [`9609.HK`](https://finance.yahoo.com/quote/9609.HK) HAIWEI ELEC（海伟电子） | +48.22% | 电子元件
+   - 主营：国内电容器薄膜新材料制造商
+   - 核心产品：电容基膜、金属化膜和复合铜箔基膜
+   - 催化：电子材料走强，电容薄膜国产替代预期升温
+   - 判断：题材弹性高，量能不足勿追
+2. [`0894.HK`](https://finance.yahoo.com/quote/0894.HK) MAN YUE TECH（万裕科技） | +32.19% | 电子元件
+   - 主营：香港老牌电容器及电子元件制造商
+   - 核心产品：铝电解、固态及超级电容
+   - 催化：电子元件需求改善预期，带动低位品种补涨
+   - 判断：基本面弹性有限，看成交延续
+3. [`2028.HK`](https://finance.yahoo.com/quote/2028.HK) JOLIMARK（映美控股） | +15.48% | 电脑硬件与办公设备
+   - 主营：国内票据及商用打印设备供应商
+   - 核心产品：针式、激光、喷墨、POS及云打印设备
+   - 催化：小盘科技股活跃，打印及电子发票业务受关注
+   - 判断：量能延续可短跟，追高需控仓
+其余上榜：1213.HK +14.89%；1087.HK +14.29%
 
-### 工业（2家｜平均 +102.52%｜龙头 2258.HK）
-1. [`2258.HK`](https://finance.yahoo.com/quote/2258.HK) WATTS INT'L | +187.74% | 基建运营
-   - 主营：Watts International Maritime 公司 Limited…
-   - 核心产品：Watts International Maritime 公司 Limited…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像工业板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`0368.HK`](https://finance.yahoo.com/quote/0368.HK) SUPERLAND GROUP | +17.31% | 工程建设
-   - 主营：Superland Group Holdings Limited、an 投资控…
-   - 核心产品：主要产品/服务包括fitting-out 服务
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像工业板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 信息技术（5家｜平均 +23.17%｜龙头 1679.HK）
+1. [`1679.HK`](https://finance.yahoo.com/quote/1679.HK) RISECOMM GP（瑞斯康集团） | +27.34% | 专用芯片与工业自动化
+   - 主营：提供电力通信芯片及工业自动化方案
+   - 核心产品：ASIC芯片、抄表系统、工控软件、风电运维
+   - 催化：半导体和智能电网走强，资金博弈低价科技股
+   - 判断：短线看量能，基本面待验证
+2. [`0889.HK`](https://finance.yahoo.com/quote/0889.HK) DATRONIX HOLD（连达科技控股） | +26.03% | 电子元件
+   - 主营：磁性电子元件制造及销售供应商
+   - 核心产品：变压器、滤波器、电感、网络磁性组件
+   - 催化：电子元件板块回暖，低估值小盘制造股获关注
+   - 判断：关注延续性，不宜盲目追涨
+3. [`6036.HK`](https://finance.yahoo.com/quote/6036.HK) APEX ACE HLDG（奥柏中国控股） | +24.82% | 电子元件分销
+   - 主营：半导体及存储器电子元件分销商
+   - 核心产品：DRAM、闪存、芯片、传感器及连接器
+   - 催化：存储芯片景气预期改善，带动分销科技股上涨
+   - 判断：受周期影响，短线偏交易
+其余上榜：0117.HK +20.81%；1879.HK +16.83%
 
-### 综合企业（2家｜平均 +22.10%｜龙头 0605.HK）
-1. [`0605.HK`](https://finance.yahoo.com/quote/0605.HK) C FIN SERVICES | +26.67% | 综合企业
-   - 主营：China Financial 服务 Holdings Limited、an…
-   - 核心产品：主要产品/服务包括financial 服务
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像Financial Services板块…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`1160.HK`](https://finance.yahoo.com/quote/1160.HK) GOLDSTONE CAP | +17.53% | 综合企业
-   - 主营：GOLDSTONE CAP 是一家investment 公司
-   - 核心产品：Youth Champ Financial Group Holdings Li…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像Financial Services板块…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 工业（2家｜平均 +34.70%｜龙头 0368.HK）
+1. [`0368.HK`](https://finance.yahoo.com/quote/0368.HK) SUPERLAND GROUP（德合集团） | +47.12% | 工程与建筑
+   - 主营：香港室内装修及维修服务商
+   - 核心产品：住宅、酒店、商场和会所装修工程
+   - 催化：港股小盘工程股轮动，资金博弈低位修复
+   - 判断：资金驱动为主，宜快进快出
+2. [`1850.HK`](https://finance.yahoo.com/quote/1850.HK) HSC RESOURCES（海鑫集团） | +22.29% | 消防工程服务
+   - 主营：香港消防系统安装及维修承包商
+   - 核心产品：消防系统设计安装、维修、消防配件贸易
+   - 催化：工程服务小盘股异动，关注本地基建及订单修复
+   - 判断：成交放大可跟踪，勿重仓
 
-### 医疗健康（1家｜平均 +16.97%｜龙头 1548.HK）
-1. [`1548.HK`](https://finance.yahoo.com/quote/1548.HK) GENSCRIPT BIO | +16.97% | 生物科技
-   - 主营：Genscript Biotech Corporation、an 投资控股公司…
-   - 核心产品：主要产品/服务包括和 sale of life science researc…
-   - 催化：公司披露了业绩或指引利好，新合同或订单进展带动情绪
-   - 判断：更像基本面兑现，不只是题材炒作
+### 通信服务（2家｜平均 +27.58%｜龙头 1723.HK）
+1. [`1723.HK`](https://finance.yahoo.com/quote/1723.HK) MOON INC（Moon Inc.） | +27.66% | 电信服务
+   - 主营：香港预付通信产品批发零售商
+   - 核心产品：SIM卡、充值券和移动数据服务
+   - 催化：更名后小盘通信股受关注，旅游通信需求预期改善
+   - 判断：流动性偏低，短炒控仓
+2. [`1159.HK`](https://finance.yahoo.com/quote/1159.HK) SMART DIGI TECH（智数科技集团） | +27.50% | 影视娱乐
+   - 主营：港股影视投资及媒体文化运营公司
+   - 核心产品：电影投资、媒体运营、影视文化项目
+   - 催化：小市值影视文化股活跃，改名后转型预期升温
+   - 判断：题材弹性较大，追高需控仓
 
-### 可选消费（1家｜平均 +12.90%｜龙头 0776.HK）
-1. [`0776.HK`](https://finance.yahoo.com/quote/0776.HK) IMPERIUM TEC GP | +12.90% | 综合企业
-   - 主营：Imperium Technology Group Limited、an 投资…
-   - 核心产品：主要产品/服务包括和 销售 stainless steel home furn…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像可选消费板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 金融服务（2家｜平均 +20.10%｜龙头 0605.HK）
+1. [`0605.HK`](https://finance.yahoo.com/quote/0605.HK) C FIN SERVICES（中国金融服务） | +22.67% | 小额贷款与融资服务
+   - 主营：提供短期融资、小贷及咨询服务
+   - 核心产品：抵押贷款、小额信贷、消费金融、咨询服务
+   - 催化：低价金融股轮动，炒作融资服务修复预期
+   - 判断：弹性来自情绪，需防回吐
+2. [`1160.HK`](https://finance.yahoo.com/quote/1160.HK) GOLDSTONE CAP（金石资本集团） | +17.53% | 资产管理与投资
+   - 主营：投资港中上市及非上市企业
+   - 核心产品：股权债权投资、基金及投资管理
+   - 催化：小型金融投资股获资金轮动，低位弹性释放
+   - 判断：题材弹性强，宜以短线风控为主
 
-### 通信服务（1家｜平均 +12.24%｜龙头 8121.HK）
-1. [`8121.HK`](https://finance.yahoo.com/quote/8121.HK) GUOEN HOLDINGS | +12.24% | 广告营销
-   - 主营：Guoen Holdings Limited、an 投资控股公司、提供 int…
-   - 核心产品：主要产品/服务包括integrated digital marketing 服务
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像通信服务板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 能源（2家｜平均 +16.20%｜龙头 0568.HK）
+1. [`0568.HK`](https://finance.yahoo.com/quote/0568.HK) SHANDONG MOLONG（山东墨龙） | +16.61% | 油气设备与服务
+   - 主营：生产油气开采用管材及装备
+   - 核心产品：油套管、钻杆、抽油泵、铸锻件
+   - 催化：能源波动提升设备关注度，亚洲小盘股被挖掘
+   - 判断：亏损压力仍在，反弹更偏交易性
+2. [`0338.HK`](https://finance.yahoo.com/quote/0338.HK) SHANGHAI PECHEM（上海石油化工股份） | +15.79% | 炼油化工
+   - 主营：中石化旗下大型炼化一体化企业
+   - 核心产品：成品油、乙烯、树脂、聚酯及化纤
+   - 催化：亚洲低价股受关注，炼化价差修复预期助推
+   - 判断：估值低位有支撑，仍看油价与价差
 
-### 房地产（1家｜平均 +12.09%｜龙头 0655.HK）
-1. [`0655.HK`](https://finance.yahoo.com/quote/0655.HK) HK CHINESE LTD | +12.09% | 综合企业
-   - 主营：Hongkong Chinese Limited、an 投资控股公司、enga…
-   - 核心产品：主要产品/服务包括和 销售 properties
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像房地产板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 公用事业（1家｜平均 +16.55%｜龙头 2655.HK）
+1. [`2655.HK`](https://finance.yahoo.com/quote/2655.HK) GUOXIA TECH（国霞科技） | +16.55% | 新能源与储能
+   - 主营：提供储能系统和电站方案
+   - 核心产品：储能系统、零碳园区、微电网方案
+   - 催化：储能板块资金回流，海外及园区需求预期提振
+   - 判断：关注订单兑现，趋势未稳不宜重仓
+
+### 房地产（1家｜平均 +14.29%｜龙头 0655.HK）
+1. [`0655.HK`](https://finance.yahoo.com/quote/0655.HK) HK CHINESE LTD（香港华人有限公司） | +14.29% | 物业投资与开发
+   - 主营：力宝系旗下地产投资及开发平台
+   - 核心产品：物业租售、地产开发、财资及证券投资
+   - 催化：港股地产及资产类股份回暖，低估值资金流入
+   - 判断：估值修复为主，适合低吸不追涨
 
 ## 核心龙头
 
 - 最强板块：科技
-- 最强细分行业：综合企业
-- 总龙头：0894.HK（MAN YUE TECH，+35.14%）
+- 最强细分行业：电子元件
+- 总龙头：9609.HK（HAIWEI ELEC（海伟电子），+48.22%）
 
 ## 上涨原因归因
 
-- 高弹性成长股集体走强，说明短线风险偏好明显回升。
-- 上榜个股集中在科技、能源或题材股，更多体现交易型资金抱团。
-- 公开公告与新闻信号不足，部分走势仍可能是事件驱动后的情绪放大。
+- AI算力链继续外溢，Navitas、MaxLinear、IPG Photonics等受AI电源、边缘网络、光通信相关预期推动。
+- 港股电子元件和半导体分销股集中走强，受国产替代、存储周期改善、电子材料需求修复预期带动。
+- 医疗健康个股出现事件驱动行情，Medtronic相关业绩超预期、TG Therapeutics皮下注射剂型安全性数据改善情绪。
 
 ## 后续趋势判断
 
-科技 方向短线仍可能延续，但更大概率出现“主线延续、个股分化”结构；判断关键在于次日是否继续放量、龙头是否保持强势。
+短线科技主线仍有延续概率，尤其是AI硬件外溢、电子元件修复和存储景气预期方向；但港股多只大涨标的偏小盘、低流动性和资金博弈，追高风险较高。美股半导体若能继续获得订单、合作或业绩验证，强势股有望维持趋势；医疗股则需看临床和审批风险是否进一步明朗。
 
-当前总龙头是 0894.HK（MAN YUE TECH，+35.14%），但公开新闻不足，结论主要基于榜单结构与涨幅分布。
+信号中等偏强：涨幅榜对科技和电子元件的集中度较高，主线清晰；但部分港股缺少明确公告催化，且小盘股资金驱动特征明显，因此对持续性的判断需保留谨慎。
