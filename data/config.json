@@ -2,9 +2,12 @@
   "version": "1.0",
   "ai": {
     "provider": "openai",
-    "model": "gpt-5.2-chat-latest",
-    "base_url": "https://allinai7.cloud/v1",
+    "model": "gpt-5.5",
+    "base_url": "https://allincode.top/v1",
+    "wire_api": "chat",
     "api_key_env": "OPENAI_API_KEY",
+    "reasoning_effort": "xhigh",
+    "disable_response_storage": true,
     "temperature": 0.3,
     "max_tokens": 4096,
     "languages": [

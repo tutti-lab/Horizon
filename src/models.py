@@ -53,9 +53,12 @@ class AIConfig(BaseModel):
     provider: AIProvider
     model: str
     base_url: Optional[str] = None
+    wire_api: str = "chat"
     api_key_env: str
     temperature: float = 0.3
     max_tokens: int = 4096
+    reasoning_effort: Optional[str] = None
+    disable_response_storage: bool = False
     throttle_sec: float = 0.0
     languages: List[str] = Field(default_factory=lambda: ["en"])
     # Azure OpenAI specific; required when provider == AZURE

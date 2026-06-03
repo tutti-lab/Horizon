@@ -123,6 +123,9 @@ class OpenAIClient(AIClient):
         self.model = config.model
         self.temperature = config.temperature
         self.max_tokens = config.max_tokens
+        self.wire_api = config.wire_api
+        self.reasoning_effort = config.reasoning_effort
+        self.disable_response_storage = config.disable_response_storage
 
     async def complete(
         self,
@@ -145,6 +148,30 @@ class OpenAIClient(AIClient):
         temperature = self.temperature if temperature is None else temperature
         max_tokens = self.max_tokens if max_tokens is None else max_tokens
 
+        if self.wire_api == "responses":
+            kwargs = {
+                "model": self.model,
+                "instructions": system,
+                "input": user,
+                "temperature": temperature,
+                "max_output_tokens": max_tokens,
+                "text": {"format": {"type": "json_object"}},
+            }
+            if self.reasoning_effort:
+                kwargs["reasoning"] = {"effort": self.reasoning_effort}
+            if self.disable_response_storage:
+                kwargs["store"] = False
+
+            response = await self.client.responses.create(**kwargs)
+            usage = getattr(response, "usage", None)
+            if usage is not None:
+                record_usage(
+                    "openai",
+                    input_tokens=getattr(usage, "input_tokens", 0),
+                    output_tokens=getattr(usage, "output_tokens", 0),
+                )
+            return self._extract_response_text(response)
+
         response = await self.client.chat.completions.create(
             model=self.model,
             messages=[
@@ -163,6 +190,20 @@ class OpenAIClient(AIClient):
                 output_tokens=getattr(usage, "completion_tokens", 0),
             )
         return response.choices[0].message.content
+
+    @staticmethod
+    def _extract_response_text(response) -> str:
+        output_text = getattr(response, "output_text", None)
+        if output_text:
+            return output_text
+
+        chunks = []
+        for item in getattr(response, "output", []) or []:
+            for content in getattr(item, "content", []) or []:
+                text = getattr(content, "text", None)
+                if text:
+                    chunks.append(text)
+        return "".join(chunks)
 
 
 class AzureOpenAIClient(AIClient):
