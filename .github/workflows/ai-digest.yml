@@ -9,24 +9,39 @@ jobs:
   ai-digest:
     runs-on: ubuntu-latest
     permissions:
+      actions: read
       contents: write
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Check daily send de-duplication
+        id: dedupe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/digest_run_dedupe.py \
+            --repo "$GITHUB_REPOSITORY" \
+            --workflow "ai-digest.yml" \
+            --run-id "$GITHUB_RUN_ID"
+
       - name: Set up Python
+        if: steps.dedupe.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install uv
+        if: steps.dedupe.outputs.should_run == 'true'
         uses: astral-sh/setup-uv@v3
 
       - name: Install dependencies
+        if: steps.dedupe.outputs.should_run == 'true'
         run: uv sync
 
       - name: Configure AI digest only
+        if: steps.dedupe.outputs.should_run == 'true'
         run: |
           tmp_config="$(mktemp)"
           jq \
@@ -37,6 +52,7 @@ jobs:
           mv "$tmp_config" data/config.json
 
       - name: Run Horizon AI digest
+        if: steps.dedupe.outputs.should_run == 'true'
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           HORIZON_AI_DIGEST_WEBHOOK_URL: ${{ secrets.HORIZON_AI_DIGEST_WEBHOOK_URL }}
@@ -45,9 +61,11 @@ jobs:
         run: uv run horizon --digests
 
       - name: Set current date as environment variable
+        if: steps.dedupe.outputs.should_run == 'true'
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: Deploy to GitHub Pages
+        if: steps.dedupe.outputs.should_run == 'true'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
