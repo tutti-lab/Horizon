@@ -2,7 +2,7 @@ name: AI Digest
 
 on:
   schedule:
-    - cron: '10 2 * * *'  # Runs daily at 02:10 UTC / 10:10 Asia/Shanghai
+    - cron: '27 1 * * *'  # Runs daily at 01:27 UTC / 09:27 Asia/Shanghai
   workflow_dispatch:
 
 jobs:
