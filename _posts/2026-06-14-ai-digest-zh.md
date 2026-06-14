@@ -53,7 +53,7 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Feezza 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：bannedbook/fanqiang；Bail: Fake Call Simulator；Next Elite；Event Parlour 等5个项目
+其余项目：bannedbook/fanqiang；Bail: Fake Call Simulator；Next Elite；audiOS 等5个项目
 
 ### 开发工具（5个项目｜GitHub 1｜PH 4）
 1. [Vercel Drop](https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
@@ -71,7 +71,7 @@ kind: ai
    - 核心能力：开发工具、设计
    - 看点：Carve 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-其余项目：APIddress — email validation API；swc-project/swc
+其余项目：swc-project/swc；APIddress — email validation API
 
 ### 设计创作（4个项目｜GitHub 0｜PH 4）
 1. [Avatars in ElevenCreative ](https://www.producthunt.com/products/avatars-in-elevencreative?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
