@@ -53,7 +53,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：Tinfoil Pigeons 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：Momentra；LabelLens；DualChess；Roast My Resume 等5个项目
+其余项目：Momentra；LabelLens；DualChess；Web Researcher MCP 等5个项目
 
 ### 开发工具（7个项目｜GitHub 2｜PH 5）
 1. [Taste Lab](https://www.producthunt.com/products/taste-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
