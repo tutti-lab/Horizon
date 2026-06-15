@@ -51,3 +51,11 @@ def test_responses_wire_uses_responses_api(monkeypatch):
     assert call_kwargs["reasoning"] == {"effort": "xhigh"}
     assert call_kwargs["store"] is False
     assert call_kwargs["text"] == {"format": {"type": "json_object"}}
+
+
+def test_openai_client_uses_horizon_user_agent(monkeypatch):
+    monkeypatch.setenv("OPENAI_API_KEY", "test-key")
+
+    client = OpenAIClient(_make_config())
+
+    assert client.client.default_headers["User-Agent"] == "Horizon/0.1"
