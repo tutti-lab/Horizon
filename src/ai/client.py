@@ -115,10 +115,7 @@ class OpenAIClient(AIClient):
         if not api_key:
             raise ValueError(f"Missing API key: {config.api_key_env}")
 
-        kwargs = {
-            "api_key": api_key,
-            "default_headers": {"User-Agent": "Horizon/0.1"},
-        }
+        kwargs = {"api_key": api_key}
         if config.base_url:
             kwargs["base_url"] = config.base_url
 
