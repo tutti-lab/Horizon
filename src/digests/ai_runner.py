@@ -86,7 +86,8 @@ AI_TOPIC_TOKEN_ZH = {
     "infra": "基础设施",
 }
 
-AI_LOCALIZATION_TIMEOUT_SECONDS = 90
+AI_LOCALIZATION_TIMEOUT_SECONDS = 120
+AI_LOCALIZATION_BATCH_SIZE = 4
 
 
 def classify_ai_category(name: str, description: str, topics: list[str]) -> str:
@@ -544,8 +545,8 @@ class AIDigestRunner:
             return
 
         zh_to_en = {value: key for key, value in AI_CATEGORY_ZH.items()}
-        for start in range(0, len(projects), 8):
-            batch = projects[start:start + 8]
+        for start in range(0, len(projects), AI_LOCALIZATION_BATCH_SIZE):
+            batch = projects[start:start + AI_LOCALIZATION_BATCH_SIZE]
             payload = [
                 {
                     "name": project.name,
