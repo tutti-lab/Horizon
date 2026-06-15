@@ -86,6 +86,8 @@ AI_TOPIC_TOKEN_ZH = {
     "infra": "基础设施",
 }
 
+AI_LOCALIZATION_TIMEOUT_SECONDS = 90
+
 
 def classify_ai_category(name: str, description: str, topics: list[str]) -> str:
     """Map AI products and repos into a digest-friendly category."""
@@ -567,10 +569,14 @@ class AIDigestRunner:
             try:
                 response = await asyncio.wait_for(
                     self.ai_client.complete(system=system, user=user, max_tokens=2600),
-                    timeout=45,
+                    timeout=AI_LOCALIZATION_TIMEOUT_SECONDS,
                 )
                 result = parse_json_response(response) or {}
-            except Exception:
+            except Exception as exc:
+                print(
+                    f"[ai] localize_projects failed for {[project.name for project in batch]}: "
+                    f"{type(exc).__name__}: {exc}"
+                )
                 result = {}
 
             localized_map = {str(item.get("name")): item for item in result.get("items", []) if item.get("name")}

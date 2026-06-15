@@ -1,4 +1,5 @@
 import asyncio
+import json
 from unittest.mock import Mock
 
 import httpx
@@ -102,3 +103,49 @@ def test_fallback_topics_zh_translates_english_repo_tags():
 
     assert "浏览器自动化" in topics
     assert any("智能体" in topic or "人工智能" in topic for topic in topics)
+
+
+def test_localize_projects_uses_extended_timeout(monkeypatch):
+    captured = {}
+
+    class FakeAIClient:
+        async def complete(self, **_kwargs):
+            return json.dumps(
+                {
+                    "items": [
+                        {
+                            "name": "demo/repo",
+                            "summary_zh": "具体中文摘要",
+                            "capability_cn": "具体能力",
+                            "why_cn": "具体看点",
+                            "judgment_cn": "具体判断",
+                            "category_zh": "开发工具",
+                            "topics_zh": ["开发工具"],
+                        }
+                    ]
+                },
+                ensure_ascii=False,
+            )
+
+    async def fake_wait_for(awaitable, timeout):
+        captured["timeout"] = timeout
+        return await awaitable
+
+    monkeypatch.setattr("src.digests.ai_runner.asyncio.wait_for", fake_wait_for)
+    client = httpx.AsyncClient(transport=httpx.MockTransport(lambda _request: httpx.Response(404)))
+    runner = AIDigestRunner(AIDigestConfig(enabled=True, top_n=1), SourcesConfig(), FakeAIClient(), client)
+    project = AIProject(
+        source="github_trending",
+        rank=1,
+        name="demo/repo",
+        description="A developer tool",
+        url="https://github.com/demo/repo",
+        topics=["Developer Tools"],
+        category="DevTool",
+    )
+
+    asyncio.run(runner._localize_projects([project]))
+    asyncio.run(client.aclose())
+
+    assert captured["timeout"] >= 90
+    assert project.summary_zh == "具体中文摘要"
