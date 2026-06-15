@@ -6,32 +6,31 @@ lang: zh
 kind: finance
 ---
 
-> 昨日港股整体强于美股，热度集中在 科技 / 综合企业。
+> 市场呈现科技与医药双轮驱动格局，美股半导体受机构看好领涨，港股AI概念受上市预期催化爆发，整体风险偏好回升。
 
 ## 先看结论
 
 - 美股主线：科技。
-- 港股主线：科技。
-- 全市场热度最高方向：科技。
-- 当前总龙头：1985.HK（MICROWARE，+41.89%）。
+- 港股主线：信息技术。
+- 全市场热度最高方向：信息技术。
+- 当前总龙头：1888.HK（KB LAMINATES（建滔积层板），+22.48%）。
 
 ## 板块热度榜
 
-1. 科技：14 家上榜，平均 +17.46% ，龙头 1985.HK（MICROWARE）
-   热点原因：该方向上榜公司最多，且平均涨幅领先，说明资金集中度最高。
-2. 可选消费：5 家上榜，平均 +14.65% ，龙头 1180.HK（PARADISE ENT）
-3. 基础材料：5 家上榜，平均 +10.59% ，龙头 2768.HK（GON TECHNOLOGY）
-4. 医疗健康：4 家上榜，平均 +14.70% ，龙头 0648.HK（SOFTMEDX-NEW）
-5. 综合企业：3 家上榜，平均 +20.10% ，龙头 2951.HK（SOFTMEDX-OLD）
+1. 信息技术：9 家上榜，平均 +18.00% ，龙头 1888.HK（KB LAMINATES（建滔积层板））
+2. 科技：7 家上榜，平均 +19.19% ，龙头 0465.HK（FUTONG TECH（富通科技））
+3. 医疗保健：4 家上榜，平均 +16.53% ，龙头 0648.HK（SOFTMEDX-NEW（软医健））
+4. 工业：3 家上榜，平均 +15.40% ，龙头 1729.HK（TIME INTERCON（天虹电缆））
+5. 可选消费：3 家上榜，平均 +11.71% ，龙头 1180.HK（PARADISE ENT（Paradise Entertainment））
 
 ## 美股分类看板
 
-### 科技（6家｜平均 +9.65%｜龙头 POET）
-1. [`POET`](https://finance.yahoo.com/quote/POET) POET Technologies Inc. | +11.38% | 半导体
-   - 主营：POET Technologies Inc
-   - 核心产品：主要产品/服务包括半导体 产品 和 服务
-   - 催化：POET Technologies Lawsuits Heighten Legal…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 科技（4家｜平均 +10.34%｜龙头 POET）
+1. [`POET`](https://finance.yahoo.com/quote/POET) POET Technologies Inc.（POET Technologies） | +11.38% | 半导体
+   - 主营：设计制造光子集成芯片及封装解决方案的半导体技术公司
+   - 核心产品：光子集成电路、光引擎、光收发器模块及光源产品
+   - 催化：受市场半导体板块乐观情绪带动上涨，但面临集体诉讼
+   - 判断：法律诉讼风险上升，虽蹭热点上涨，但不宜盲目追高
 2. [`ARM`](https://finance.yahoo.com/quote/ARM) Arm Holdings plc | +11.27% | 半导体
    - 主营：Arm Holdings plc researches、开发、licenses…
    - 核心产品：主要产品/服务包括a 产品 portfolio、including CPU I…
@@ -42,77 +41,76 @@ kind: finance
    - 核心产品：The 公司 提供 indium phosphide 面向 use 在 dat…
    - 催化：AXT Inc
    - 判断：更偏情绪驱动，持续性要看量能与跟风
-其余上榜：AMKR +8.71%；VECO +8.29%；CIFR +8.26%
+其余上榜：AMKR +8.71%
 
-### 医疗健康（3家｜平均 +12.74%｜龙头 ALMS）
-1. [`ALMS`](https://finance.yahoo.com/quote/ALMS) Alumis Inc. | +15.55% | 生物科技
-   - 主营：Alumis Inc
-   - 核心产品：Alumis Inc
-   - 催化：公司披露了业绩或指引利好
-   - 判断：更像基本面兑现，不只是题材炒作
-2. [`ELVN`](https://finance.yahoo.com/quote/ELVN) Enliven Therapeutics, Inc. | +14.30% | 生物科技
-   - 主营：Enliven Therapeutics、Inc
-   - 核心产品：Enliven Therapeutics、Inc
-   - 催化：审批或监管进展带来催化
-   - 判断：偏事件驱动，持续性要看后续公告
-3. [`HTFL`](https://finance.yahoo.com/quote/HTFL) Heartflow, Inc. | +8.38% | 综合企业
-   - 主营：HeartFlow、Inc
-   - 核心产品：HeartFlow、Inc
-   - 催化：公司披露了业绩或指引利好
-   - 判断：更像基本面兑现，不只是题材炒作
+### 医疗保健（2家｜平均 +14.92%｜龙头 ALMS）
+1. [`ALMS`](https://finance.yahoo.com/quote/ALMS) Alumis Inc.（Alumis公司） | +15.55% | 生物技术
+   - 主营：临床阶段生物制药公司，专注于自身免疫性疾病药物研发
+   - 核心产品：银屑病药物Envudeucitinib及神经炎症药物A-005
+   - 催化：Q1业绩稳健，TYK2抑制剂管线进展获分析师看好
+   - 判断：管线潜力获机构认可，但需关注临床数据波动
+2. [`ELVN`](https://finance.yahoo.com/quote/ELVN) Enliven Therapeutics, Inc.（Enliven Therapeutics） | +14.30% | 生物技术
+   - 主营：专注于肿瘤学的小分子抑制剂研发的临床阶段生物制药公司
+   - 核心产品：白血病药物ELVN-001及肺癌药物ELVN-002
+   - 催化：白血病药物ELVN-001临床试验数据优异，获FDA批准进三期
+   - 判断：核心药物临床数据强劲，上涨逻辑坚实，可重点关注
 
-### 可选消费（3家｜平均 +11.09%｜龙头 PLBL）
-1. [`PLBL`](https://finance.yahoo.com/quote/PLBL) Polibeli Group Ltd | +17.51% | 综合企业
-   - 主营：Polibeli Group Ltd 提供 digital supply ch…
-   - 核心产品：主要产品/服务包括digital supply chain 和 distrib…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像可选消费板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`ANDG`](https://finance.yahoo.com/quote/ANDG) Andersen Group Inc. | +7.91% | 综合企业
-   - 主营：提供 independent tax、valuation、和 financia…
-   - 核心产品：提供 independent tax、valuation、和 financia…
-   - 催化：公司披露了业绩或指引利好
-   - 判断：更像基本面兑现，不只是题材炒作
-3. [`RIVN`](https://finance.yahoo.com/quote/RIVN) Rivian Automotive, Inc. | +7.85% | 综合企业
-   - 主营：Rivian Automotive、Inc
-   - 核心产品：Rivian Automotive、Inc
-   - 催化：新合同或订单进展带动情绪，合作消息提升了市场关注度
-   - 判断：订单催化明确，后续要看持续落地
+### 信息技术（2家｜平均 +8.28%｜龙头 VECO）
+1. [`VECO`](https://finance.yahoo.com/quote/VECO) Veeco Instruments Inc.（维易科精密仪器） | +8.29% | 半导体设备
+   - 主营：全球领先的半导体及薄膜工艺设备制造商，专注精密加工与沉积技术
+   - 核心产品：激光退火、离子束沉积、分子束外延及湿法清洗等半导体制造设备
+   - 催化：分析师大幅上调目标价，AI相关订单增长推动市场重估公司价值
+   - 判断：受益AI芯片扩产趋势，股价突破后趋势向好，建议逢低关注
+2. [`CIFR`](https://finance.yahoo.com/quote/CIFR) Cipher Digital Inc.（赛弗数字） | +8.26% | 数据中心与区块链
+   - 主营：专注于比特币挖矿及高性能计算托管的大型数据中心运营商
+   - 核心产品：比特币挖矿服务、高性能计算数据中心托管及算力基础设施服务
+   - 催化：地缘政治紧张局势缓解提振情绪，Jefferies启动覆盖带来关注度
+   - 判断：股价随市场情绪反弹，但加密货币波动性大，建议谨慎波段操作
 
-### 基础材料（3家｜平均 +8.32%｜龙头 TGB）
-1. [`TGB`](https://finance.yahoo.com/quote/TGB) Taseko Mines, Ltd. | +9.49% | 综合企业
-   - 主营：Taseko Mines Limited、a mining 公司、acquir…
-   - 核心产品：Taseko Mines Limited、a mining 公司、acquir…
-   - 催化：Taseko Mines (TGB) Gets 9
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`SKE`](https://finance.yahoo.com/quote/SKE) Skeena Resources Limited | +7.87% | 综合企业
-   - 主营：Skeena Resources Limited engages 在 the…
-   - 核心产品：Skeena Resources Limited engages 在 the…
-   - 催化：Skeena Resources Limited (SKE) Reports Q1…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-3. [`AUGO`](https://finance.yahoo.com/quote/AUGO) Aura Minerals Inc. | +7.62% | 综合企业
-   - 主营：Aura Minerals Inc
-   - 核心产品：Aura Minerals Inc
-   - 催化：公司披露了业绩或指引利好，新产品或项目进展带来催化
-   - 判断：更像基本面兑现，不只是题材炒作
+### 可选消费（2家｜平均 +7.88%｜龙头 STUB）
+1. [`STUB`](https://finance.yahoo.com/quote/STUB) StubHub Holdings, Inc.（StubHub控股） | +7.91% | 互联网服务
+   - 主营：全球知名票务交易平台，提供演唱会及体育赛事等现场活动门票买卖服务
+   - 核心产品：StubHub及viagogo品牌的在线票务交易市场、活动门票转售服务
+   - 催化：获Guggenheim分析师看好并给予正面评价，市场对盈利能力预期升温
+   - 判断：受益演出市场复苏，股价强势反弹，短期动能强劲，可适度参与
+2. [`RIVN`](https://finance.yahoo.com/quote/RIVN) Rivian Automotive, Inc.（里维安汽车） | +7.85% | 汽车制造
+   - 主营：美国知名电动汽车制造商，专注电动皮卡、SUV及电动送货车的研发生产
+   - 核心产品：R1T电动皮卡、R1S电动SUV、电动送货车及相关软件服务
+   - 催化：与AT&T达成5G连接合作，CEO透露自动驾驶进展，R2平台受关注
+   - 判断：技术合作与新品预期提振信心，但需观察交付数据，适合波段操作
 
-### 通信服务（2家｜平均 +13.99%｜龙头 ROKU）
-1. [`ROKU`](https://finance.yahoo.com/quote/ROKU) Roku, Inc. | +20.08% | 综合企业
-   - 主营：Roku、Inc
-   - 核心产品：主要产品/服务包括digital advertising 服务
-   - 催化：新合同或订单进展带动情绪
-   - 判断：订单催化明确，后续要看持续落地
-2. [`STUB`](https://finance.yahoo.com/quote/STUB) StubHub Holdings, Inc. | +7.91% | 互联网平台
-   - 主营：The 公司 was formerly known as Pugnacious…
-   - 核心产品：主要产品/服务集中在互联网平台方向
-   - 催化：公司披露了业绩或指引利好
-   - 判断：更像基本面兑现，不只是题材炒作
+### 原材料（2家｜平均 +7.74%｜龙头 SKE）
+1. [`SKE`](https://finance.yahoo.com/quote/SKE) Skeena Resources Limited（斯基纳资源） | +7.87% | 贵金属采矿
+   - 主营：加拿大黄金和白银矿产勘探开发商，核心资产位于不列颠哥伦比亚省
+   - 核心产品：Eskay Creek金银矿项目、Snip金矿项目的勘探、开发与未来开采
+   - 催化：发布一季度业绩报告，Eskay Creek项目融资顺利，银价上涨提振
+   - 判断：贵金属价格高位运行叠加项目推进，股价具备上行潜力，关注回调机会
+2. [`AUGO`](https://finance.yahoo.com/quote/AUGO) Aura Minerals Inc.（奥拉矿业） | +7.62% | 黄金
+   - 主营：专注于美洲地区的黄金与铜矿开采及项目开发的矿业公司
+   - 核心产品：黄金、铜及银等贵金属矿产，主要矿区位于巴西和墨西哥
+   - 催化：营收创新高且产量大增，Borborema项目投产推动股价飙升
+   - 判断：产量成长性佳，业绩兑现强劲，中长期上涨趋势确立
 
-### 综合企业（1家｜平均 +15.73%｜龙头 MAAS）
-1. [`MAAS`](https://finance.yahoo.com/quote/MAAS) Maase Inc. | +15.73% | 综合企业
-   - 主营：运营 as an integrated 提供r 和 operator of a…
-   - 核心产品：主要产品/服务包括closed-loop solutions 来自 compu…
-   - 催化：Maase (MAAS) Valuation Check After Sharp…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 通信服务（1家｜平均 +20.08%｜龙头 ROKU）
+1. [`ROKU`](https://finance.yahoo.com/quote/ROKU) Roku, Inc.（Roku公司） | +20.08% | 娱乐
+   - 主营：美国领先的电视流媒体平台运营商，提供内容聚合与广告服务
+   - 核心产品：Roku流媒体播放器、智能电视、流媒体平台及数字广告服务
+   - 催化：市场传闻潜在收购交易，推动股价创52周新高
+   - 判断：传闻驱动大涨，需警惕收购落空后的回调风险
+
+### 非日常生活消费品（1家｜平均 +17.51%｜龙头 PLBL）
+1. [`PLBL`](https://finance.yahoo.com/quote/PLBL) Polibeli Group Ltd（Polibeli集团） | +17.51% | 百货商店
+   - 主营：提供数字供应链管理、分销销售服务及消费品的综合运营商
+   - 核心产品：消费电子配件、家电、母婴产品及数字供应链解决方案
+   - 催化：近期无重大利好催化，股价波动可能源于市场交易行为
+   - 判断：基本面缺乏强催化剂，建议保持观望或谨慎对待
+
+### 金融服务（1家｜平均 +15.73%｜龙头 MAAS）
+1. [`MAAS`](https://finance.yahoo.com/quote/MAAS) Maase Inc.（Maase公司） | +15.73% | 资产管理
+   - 主营：专注于柔性能源部署与智能商业网络运营的AI系统集成商
+   - 核心产品：AI全场景数字系统、计算基础设施及智能硬件解决方案
+   - 催化：股价经历剧烈波动后，市场对其估值重新审视
+   - 判断：股价短期涨幅过大，需警惕估值回归风险
 
 ### 能源（1家｜平均 +9.81%｜龙头 FRO）
 1. [`FRO`](https://finance.yahoo.com/quote/FRO) Frontline Plc | +9.81% | 综合企业
@@ -121,124 +119,152 @@ kind: finance
    - 催化：公司披露了业绩或指引利好
    - 判断：更像基本面兑现，不只是题材炒作
 
-### 工业（1家｜平均 +7.73%｜龙头 ROAD）
-1. [`ROAD`](https://finance.yahoo.com/quote/ROAD) Construction Partners, Inc. | +7.73% | 工程建设
-   - 主营：Construction Partners、Inc
-   - 核心产品：主要产品/服务包括various 产品 和 服务
-   - 催化：公司披露了业绩或指引利好，合作消息提升了市场关注度
+### 基础材料（1家｜平均 +9.49%｜龙头 TGB）
+1. [`TGB`](https://finance.yahoo.com/quote/TGB) Taseko Mines, Ltd. | +9.49% | 综合企业
+   - 主营：Taseko Mines Limited、a mining 公司、acquir…
+   - 核心产品：Taseko Mines Limited、a mining 公司、acquir…
+   - 催化：Taseko Mines (TGB) Gets 9
+   - 判断：更偏情绪驱动，持续性要看量能与跟风
+
+### 医疗健康（1家｜平均 +8.38%｜龙头 HTFL）
+1. [`HTFL`](https://finance.yahoo.com/quote/HTFL) Heartflow, Inc. | +8.38% | 综合企业
+   - 主营：HeartFlow、Inc
+   - 核心产品：HeartFlow、Inc
+   - 催化：公司披露了业绩或指引利好
    - 判断：更像基本面兑现，不只是题材炒作
+
+### 金融（1家｜平均 +7.91%｜龙头 ANDG）
+1. [`ANDG`](https://finance.yahoo.com/quote/ANDG) Andersen Group Inc.（安徒生集团） | +7.91% | 金融服务
+   - 主营：提供独立税务、估值及财务咨询服务的专业机构，面向企业与高净值客户
+   - 核心产品：私人客户税务服务、企业税务咨询、另类投资基金服务及资产估值
+   - 催化：一季度营收及调整后EBITDA超预期，全业务线实现有机增长
+   - 判断：业绩强劲增长验证商业模式，估值具备吸引力，可中长线配置
+
+### 工业（1家｜平均 +7.73%｜龙头 ROAD）
+1. [`ROAD`](https://finance.yahoo.com/quote/ROAD) Construction Partners, Inc.（建设合伙人公司） | +7.73% | 建筑与工程
+   - 主营：美国东南部地区领先的交通基础设施建设与道路维护服务商
+   - 核心产品：道路、桥梁及机场等公共基础设施建设，沥青生产与铺设
+   - 催化：特朗普中东和平信号提振基建预期，分析师上调目标价至150美元
+   - 判断：受益基建预期与业绩上修，趋势向好，可逢低关注
 
 
 ## 港股分类看板
 
-### 科技（8家｜平均 +23.31%｜龙头 1985.HK）
-1. [`1985.HK`](https://finance.yahoo.com/quote/1985.HK) MICROWARE | +41.89% | 信息技术服务
-   - 主营：Microware Group Limited、an 投资控股公司、提供 in…
-   - 核心产品：主要产品/服务包括information technology (IT) in…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像科技板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`0465.HK`](https://finance.yahoo.com/quote/0465.HK) FUTONG TECH | +33.01% | 信息技术服务
-   - 主营：Futong Technology 开发ment Holdings Limit…
-   - 核心产品：主要产品/服务包括enterprise digital transformat…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像科技板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-3. [`2513.HK`](https://finance.yahoo.com/quote/2513.HK) KNOWLEDGE ATLAS | +27.99% | 基础软件
-   - 主营：Knowledge Atlas Technology Joint Stock…
-   - 核心产品：主要产品/服务包括customized large model-related…
-   - 催化：China's Zhipu AI plans to apply 面向 Shangh…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-其余上榜：0894.HK +24.85%；1888.HK +15.85%；2350.HK +14.85%；8229.HK +14.29% 等5家
+### 信息技术（7家｜平均 +20.78%｜龙头 1888.HK）
+1. [`1888.HK`](https://finance.yahoo.com/quote/1888.HK) KB LAMINATES（建滔积层板） | +22.48% | 电子元件
+   - 主营：全球领先的积层板制造商，产品广泛应用于印刷线路板行业
+   - 核心产品：玻璃环氧积层板、纸积层板、铜箔及玻璃布等上游材料
+   - 催化：中美贸易协定落地提振科技板块情绪，纳指新高带动电子股估值修复
+   - 判断：行业周期触底回升，龙头成本优势显著，逢低吸纳
+2. [`1985.HK`](https://finance.yahoo.com/quote/1985.HK) MICROWARE（俊和发展） | +21.51% | 信息技术服务
+   - 主营：香港本土IT解决方案供应商，提供基础设施及管理服务
+   - 核心产品：IT基础设施建设、半导体硬件采购、软件解决方案及维护服务
+   - 催化：无特定利好催化，股价或随市场整体波动
+   - 判断：业务地域集中，增长空间有限，谨慎关注
+3. [`1720.HK`](https://finance.yahoo.com/quote/1720.HK) PUTIAN COMM（普天通信） | +21.05% | 通信设备
+   - 主营：国内领先的数据电缆及光缆制造商，专注通信网络建设
+   - 核心产品：光纤光缆、数据通信电缆及综合布线系统产品
+   - 催化：无特定利好催化，股价或随市场整体波动
+   - 判断：属细分领域配套商，业绩弹性一般，中性评级
+其余上榜：1075.HK +20.97%；2706.HK +20.86%；8561.HK +19.57%；2350.HK +19.05%
 
-### 综合企业（2家｜平均 +22.28%｜龙头 2951.HK）
-1. [`2951.HK`](https://finance.yahoo.com/quote/2951.HK) SOFTMEDX-OLD | +25.00% | 综合企业
-   - 主营：SoftMedx Healthcare Limited、an 投资控股公司、t…
-   - 核心产品：SoftMedx Healthcare Limited、an 投资控股公司、t…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像未分类板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`8561.HK`](https://finance.yahoo.com/quote/8561.HK) I.CENTURY H RTS | +19.57% | 综合企业
-   - 主营：I.CENTURY H RTS 是一家聚焦未分类的公司
-   - 核心产品：主要产品/服务集中在未分类方向
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像未分类板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 科技（3家｜平均 +30.98%｜龙头 0465.HK）
+1. [`0465.HK`](https://finance.yahoo.com/quote/0465.HK) FUTONG TECH（富通科技） | +40.78% | 信息技术服务
+   - 主营：提供企业数字化转型服务及云计算解决方案的IT综合服务商
+   - 核心产品：企业IT基础设施，云计算管理平台及数据智能产品
+   - 催化：无显著消息刺激，股价随科技板块整体情绪波动
+   - 判断：业务结构稳定但缺乏爆发点，建议区间操作
+2. [`2513.HK`](https://finance.yahoo.com/quote/2513.HK) KNOWLEDGE ATLAS（智谱AI） | +35.19% | 软件
+   - 主营：中国领先的AI大模型研发企业，提供定制化大模型服务
+   - 核心产品：ChatGLM大模型，AutoGLM智能体及行业定制化AI解决方案
+   - 催化：公司拟申请科创板上市，加速国产芯片适配引发关注
+   - 判断：AI核心资产稀缺，上市预期强烈，可保持重点关注
+3. [`2577.HK`](https://finance.yahoo.com/quote/2577.HK) INNOSCIENCE（英诺赛科） | +16.98% | 半导体
+   - 主营：专注于氮化镓功率半导体产品的设计、研发、制造与销售
+   - 核心产品：氮化镓晶圆、分立器件、集成电路及模块产品
+   - 催化：行业利好频出，机构看好其高成长性及高内部人持股价值
+   - 判断：第三代半导体赛道龙头，具备长期配置价值，逢低关注
 
-### 可选消费（2家｜平均 +19.99%｜龙头 1180.HK）
-1. [`1180.HK`](https://finance.yahoo.com/quote/1180.HK) PARADISE ENT | +20.97% | 综合企业
-   - 主营：Paradise Entertainment Limited、an 投资控股公…
-   - 核心产品：主要产品/服务包括management 和 consulting 服务
-   - 催化：Asian Market Highlights 3 Stocks Estimate…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`8120.HK`](https://finance.yahoo.com/quote/8120.HK) CH DEMETER FIN | +19.02% | 餐饮
-   - 主营：China Demeter Financial Investments Lim…
-   - 核心产品：China Demeter Financial Investments Lim…
-   - 催化：Asian Market Insights
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 工业（2家｜平均 +19.24%｜龙头 1729.HK）
+1. [`1729.HK`](https://finance.yahoo.com/quote/1729.HK) TIME INTERCON（天虹电缆） | +20.90% | 电气部件与设备
+   - 主营：立讯精密旗下子公司，专业生产高品质电缆组件及服务器产品
+   - 核心产品：铜缆及光纤组件、数字电缆、服务器连接线及医疗设备线缆
+   - 催化：全球小盘股受资金青睐，基本面强劲获市场挖掘
+   - 判断：背靠立讯精密，数据中心业务成长性佳，值得看好
+2. [`0862.HK`](https://finance.yahoo.com/quote/0862.HK) VISION VAL-NEW（宏华集团） | +17.57% | 综合企业
+   - 主营：多元化投资控股公司，业务涵盖网络方案、物业投资及矿产勘探
+   - 核心产品：网络解决方案、物业投资、矿产勘探及私人飞机管理服务
+   - 催化：被媒体列为值得关注的亚洲细价股，吸引投机性资金流入
+   - 判断：业务分散且缺乏核心焦点，投机属性重，谨慎参与
 
-### 工业（2家｜平均 +16.85%｜龙头 1729.HK）
-1. [`1729.HK`](https://finance.yahoo.com/quote/1729.HK) TIME INTERCON | +17.20% | 电气设备与零部件
-   - 主营：Time Interconnect Technology Limited、an…
-   - 核心产品：主要产品/服务包括和 销售 cable assembly、digital ca…
-   - 催化：Undiscovered Gems 在 全球 Featuring 3 Promis…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`1651.HK`](https://finance.yahoo.com/quote/1651.HK) TSUGAMI CHINA | +16.49% | 综合企业
-   - 主营：Precision Tsugami (China) Corporation L…
-   - 核心产品：主要产品/服务包括和 销售 computer numerical contro…
-   - 催化：3 Asian Stocks Estimated To Be Trading At…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 医疗保健（2家｜平均 +18.14%｜龙头 0648.HK）
+1. [`0648.HK`](https://finance.yahoo.com/quote/0648.HK) SOFTMEDX-NEW（软医健） | +18.49% | 医疗保健设备
+   - 主营：香港本地投资控股公司，主营医疗设备及保健产品分销
+   - 核心产品：主营医疗设备、保健产品分销及医疗健康服务
+   - 催化：市场对医疗保健板块关注度提升，或受行业政策利好带动
+   - 判断：业务规模较小，建议观望为主，注意流动性风险
+2. [`2951.HK`](https://finance.yahoo.com/quote/2951.HK) SOFTMEDX-OLD（软医健-旧股） | +17.80% | 医疗保健设备
+   - 主营：原名华颜医疗，后更名软医健，主营医疗产品分销
+   - 核心产品：医疗设备、保健产品分销及医疗健康服务
+   - 催化：该代码通常为更名或股本行动产生的临时代码，交易活跃度低
+   - 判断：属于过渡性代码，建议关注正股0648.HK表现
 
-### 基础材料（2家｜平均 +13.99%｜龙头 2768.HK）
-1. [`2768.HK`](https://finance.yahoo.com/quote/2768.HK) GON TECHNOLOGY | +15.01% | 综合企业
-   - 主营：The 公司 运营 through New Chemical Materials
-   - 核心产品：engages 在 the research、开发ment、产品ion、和 s…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像基础材料板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
-2. [`2259.HK`](https://finance.yahoo.com/quote/2259.HK) ZIJIN GOLD INTL | +12.97% | 综合企业
-   - 主营：Zijin Gold International 公司 Limited、an…
-   - 核心产品：Zijin Gold International 公司 Limited、an…
-   - 催化：Asian Stocks Trading At Estimated Discoun…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 消费必需品（1家｜平均 +188.66%｜龙头 6658.HK）
+1. [`6658.HK`](https://finance.yahoo.com/quote/6658.HK) 6658.HK（溜溜梅） | +188.66% | 包装食品
+   - 主营：中国知名的休闲零食品牌，专注于梅类产品全产业链运营
+   - 核心产品：雪梅、话梅等梅类休闲零食，梅子软糖及梅茶饮品
+   - 催化：无明确突发利好，属消费板块正常交易波动
+   - 判断：品牌护城河较深，业绩稳健，适合防御性配置
 
-### 必选消费（1家｜平均 +189.12%｜龙头 6658.HK）
-1. [`6658.HK`](https://finance.yahoo.com/quote/6658.HK) 6658.HK | +189.12% | 综合企业
-   - 主营：运营 as a fruit snack 公司，并 生产 和 销售 plum-b…
-   - 核心产品：主要产品/服务包括和 销售 plum-based 产品
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像必选消费板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 非必需消费（1家｜平均 +36.00%｜龙头 1959.HK）
+1. [`1959.HK`](https://finance.yahoo.com/quote/1959.HK) ZHONG JU INVEST（中巨投资） | +36.00% | 汽车经销商
+   - 主营：中国综合性汽车服务提供商，业务覆盖新车与新能源车销售
+   - 核心产品：广汽埃安等品牌新车销售，网约车运营及汽车后市场服务
+   - 催化：无特殊催化剂，股价受新能源汽车消费市场情绪影响
+   - 判断：行业竞争激烈，需观察新能源车销量数据，谨慎观望
 
-### 公用事业（1家｜平均 +45.07%｜龙头 1671.HK）
-1. [`1671.HK`](https://finance.yahoo.com/quote/1671.HK) TIANBAO ENERGY | +45.07% | 综合企业
-   - 主营：The 公司 运营 through Electricity Dispatch…
-   - 核心产品：It generates 和 supplies steam、heating、和…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像公用事业板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 非日常生活消费品（1家｜平均 +25.00%｜龙头 8120.HK）
+1. [`8120.HK`](https://finance.yahoo.com/quote/8120.HK) CH DEMETER FIN（中国德林金融） | +25.00% | 餐饮
+   - 主营：投资控股公司，业务涵盖餐饮、放贷、证券投资及幼儿教育等
+   - 核心产品：日式及泰式餐厅运营、贷款融资、证券投资及红酒分销
+   - 催化：受亚洲市场通胀压力及地缘政治不确定性影响，投资者关注防御性资产
+   - 判断：业务多元但协同性弱，投机属性重，建议观望
 
-### 医疗健康（1家｜平均 +20.59%｜龙头 0648.HK）
-1. [`0648.HK`](https://finance.yahoo.com/quote/0648.HK) SOFTMEDX-NEW | +20.59% | 综合企业
-   - 主营：SoftMedx Healthcare Limited、an 投资控股公司、t…
-   - 核心产品：SoftMedx Healthcare Limited、an 投资控股公司、t…
-   - 催化：公开新闻里没有发现明确公司级催化，走势更像医疗健康板块情绪或资金驱动
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 公用事业（1家｜平均 +19.72%｜龙头 1671.HK）
+1. [`1671.HK`](https://finance.yahoo.com/quote/1671.HK) TIANBAO ENERGY（天保能源） | +19.72% | 独立电力生产商
+   - 主营：天津港保税区所属的综合能源供应商，业务涵盖发电与供热
+   - 核心产品：电力销售、蒸汽供热、光伏发电及充电桩运营
+   - 催化：公用事业板块防御属性受青睐，或受新能源政策利好
+   - 判断：业绩稳健分红稳定，适合低风险偏好者配置
 
-### 能源（1家｜平均 +18.55%｜龙头 1138.HK）
-1. [`1138.HK`](https://finance.yahoo.com/quote/1138.HK) COSCO SHIP ENGY | +18.55% | 综合企业
-   - 主营：COSCO SHIPPING Energy Transportation Co
-   - 核心产品：COSCO SHIPPING Energy Transportation Co
-   - 催化：3 Asian Stocks Estimated To Be Trading At…
-   - 判断：更偏情绪驱动，持续性要看量能与跟风
+### 可选消费（1家｜平均 +19.35%｜龙头 1180.HK）
+1. [`1180.HK`](https://finance.yahoo.com/quote/1180.HK) PARADISE ENT（Paradise Entertainment） | +19.35% | 赌场与博彩
+   - 主营：澳门博彩设备供应商及娱乐场所运营商
+   - 核心产品：电子博彩设备销售与租赁、博彩管理服务
+   - 催化：市场认为股价低于内在价值，博彩业复苏预期升温
+   - 判断：估值处于低位，博彩复苏弹性大，可逢低吸纳
+
+### 能源（1家｜平均 +19.11%｜龙头 1138.HK）
+1. [`1138.HK`](https://finance.yahoo.com/quote/1138.HK) COSCO SHIP ENGY（中远海能） | +19.11% | 油气航运
+   - 主营：中远海运旗下全球领先的油品及LNG运输企业
+   - 核心产品：原油运输、成品油运输、LNG船舶运输服务
+   - 催化：地缘局势紧张推升油运需求，估值被低估引发关注
+   - 判断：运价周期向上，估值修复空间大，建议中长线配置
 
 ## 核心龙头
 
-- 最强板块：科技
+- 最强板块：信息技术
 - 最强细分行业：综合企业
-- 总龙头：1985.HK（MICROWARE，+41.89%）
+- 总龙头：1888.HK（KB LAMINATES（建滔积层板），+22.48%）
 
 ## 上涨原因归因
 
-- 高弹性成长股集体走强，说明短线风险偏好明显回升。
-- 上榜个股集中在科技、能源或题材股，更多体现交易型资金抱团。
-- 公开公告与新闻信号不足，部分走势仍可能是事件驱动后的情绪放大。
+- 中美贸易协定落地提振市场情绪，纳指创新高带动科技股估值修复
+- 明星股获大行力挺与并购传闻刺激，半导体与流媒体板块赚钱效应显著
+- 创新药临床数据强劲叠加FDA审批进展，生物技术板块获资金持续追捧
 
 ## 后续趋势判断
 
-科技 方向短线仍可能延续，但更大概率出现“主线延续、个股分化”结构；判断关键在于次日是否继续放量、龙头是否保持强势。
+科技成长风格短期确立主线地位，AI与半导体板块在事件驱动下有望延续活跃；医药板块受临床数据支撑，趋势或更具持续性。需警惕Roku等传闻驱动型个股的回调风险，建议关注有实质业绩或管线进展的标的。
 
-当前总龙头是 1985.HK（MICROWARE，+41.89%），但公开新闻不足，结论主要基于榜单结构与涨幅分布。
+市场主线清晰，科技与医药均有实质性催化剂支撑，判断信号较强，但需防范高位股分化风险。
