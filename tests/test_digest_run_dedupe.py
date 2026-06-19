@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import date
 
-from scripts.digest_run_dedupe import find_prior_successful_run
+from scripts.digest_run_dedupe import find_prior_successful_run, is_force_enabled
 
 
 def test_find_prior_successful_run_matches_same_shanghai_day():
@@ -64,3 +64,11 @@ def test_find_prior_successful_run_ignores_current_failed_and_other_days():
     )
 
     assert result is None
+
+
+def test_is_force_enabled_accepts_truthy_workflow_input():
+    assert is_force_enabled("true") is True
+    assert is_force_enabled("1") is True
+    assert is_force_enabled("yes") is True
+    assert is_force_enabled("false") is False
+    assert is_force_enabled("") is False

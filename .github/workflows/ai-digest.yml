@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '27 1 * * *'  # Runs daily at 01:27 UTC / 09:27 Asia/Shanghai
   workflow_dispatch:
+    inputs:
+      force_run:
+        description: 'Bypass daily send de-duplication for this manual run'
+        required: false
+        default: 'false'
+        type: boolean
 
 jobs:
   ai-digest:
@@ -24,7 +30,8 @@ jobs:
           python3 scripts/digest_run_dedupe.py \
             --repo "$GITHUB_REPOSITORY" \
             --workflow "ai-digest.yml" \
-            --run-id "$GITHUB_RUN_ID"
+            --run-id "$GITHUB_RUN_ID" \
+            --force "${{ github.event.inputs.force_run || 'false' }}"
 
       - name: Set up Python
         if: steps.dedupe.outputs.should_run == 'true'

@@ -25,6 +25,10 @@ def _run_id(run: dict[str, Any]) -> str:
     return str(run.get("databaseId") or run.get("id") or "")
 
 
+def is_force_enabled(value: str | None) -> bool:
+    return str(value or "").strip().lower() in {"1", "true", "yes"}
+
+
 def find_prior_successful_run(
     *,
     runs: list[dict[str, Any]],
@@ -81,10 +85,17 @@ def main() -> None:
     parser.add_argument("--workflow", default="ai-digest.yml")
     parser.add_argument("--run-id", default=os.getenv("GITHUB_RUN_ID", ""))
     parser.add_argument("--timezone", default="Asia/Shanghai")
+    parser.add_argument("--force", default="")
     args = parser.parse_args()
 
     if not args.repo:
         raise SystemExit("--repo or GITHUB_REPOSITORY is required")
+
+    if is_force_enabled(args.force):
+        reason = "Force run requested; skipping daily send de-duplication."
+        print(reason)
+        write_github_output({"should_run": "true", "reason": reason})
+        return
 
     tz = ZoneInfo(args.timezone)
     local_day = datetime.now(tz).date()

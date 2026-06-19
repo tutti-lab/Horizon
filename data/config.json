@@ -2,7 +2,7 @@
   "version": "1.0",
   "ai": {
     "provider": "openai",
-    "model": "glm-5",
+    "model": "minimax-m2.5",
     "base_url": "https://llm-api.nextop.sh/v1",
     "wire_api": "responses",
     "api_key_env": "OPENAI_API_KEY",
