@@ -34,20 +34,17 @@ def parse_json_response(response: str) -> Optional[dict]:
         except (json.JSONDecodeError, ValueError, IndexError):
             pass
 
-    # Strategy 4: find the first { ... } block using brace matching
-    start = text.find("{")
-    if start != -1:
-        depth = 0
-        for i in range(start, len(text)):
-            if text[i] == "{":
-                depth += 1
-            elif text[i] == "}":
-                depth -= 1
-                if depth == 0:
-                    try:
-                        return json.loads(text[start : i + 1])
-                    except (json.JSONDecodeError, ValueError):
-                        break
+    # Strategy 4: find JSON objects using brace matching. When a model emits
+    # reasoning before the answer, it may restate the requested schema first;
+    # the final JSON object is usually the actual answer.
+    parsed_objects = []
+    for start, end in _json_object_spans(text):
+        try:
+            parsed_objects.append(json.loads(text[start:end]))
+        except (json.JSONDecodeError, ValueError):
+            continue
+    if parsed_objects:
+        return parsed_objects[-1]
 
     # Strategy 5: regex extraction as last resort
     match = re.search(r"\{[\s\S]*\}", text)
@@ -58,3 +55,35 @@ def parse_json_response(response: str) -> Optional[dict]:
             pass
 
     return None
+
+
+def _json_object_spans(text: str) -> list[tuple[int, int]]:
+    spans = []
+    start = None
+    depth = 0
+    in_string = False
+    escaped = False
+
+    for index, char in enumerate(text):
+        if in_string:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == '"':
+                in_string = False
+            continue
+
+        if char == '"':
+            in_string = True
+        elif char == "{":
+            if depth == 0:
+                start = index
+            depth += 1
+        elif char == "}" and depth:
+            depth -= 1
+            if depth == 0 and start is not None:
+                spans.append((start, index + 1))
+                start = None
+
+    return spans
