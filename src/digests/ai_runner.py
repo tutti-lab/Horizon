@@ -547,6 +547,7 @@ class AIDigestRunner:
             batch = projects[start:start + AI_LOCALIZATION_BATCH_SIZE]
             payload = [
                 {
+                    "id": f"p{index}",
                     "name": project.name,
                     "source": project.source,
                     "category": project.category,
@@ -554,7 +555,7 @@ class AIDigestRunner:
                     "topics": [AI_TOPIC_ZH.get(topic, topic) for topic in project.topics[:3]],
                     "research_context": (project.research_context or [])[:4],
                 }
-                for project in batch
+                for index, project in enumerate(batch)
             ]
             system = (
                 "你是一名双语 AI 产品分析师。请把项目摘要、核心能力、亮点判断、主题和分类全部转成自然中文，只返回 JSON。"
@@ -562,7 +563,8 @@ class AIDigestRunner:
                 "项目定位不超过44字，核心能力不超过36字，看点不超过42字，判断不超过32字。"
             )
             user = (
-                '返回 JSON：{"items":[{"name":"","name_zh":"","summary_zh":"","capability_cn":"","why_cn":"","judgment_cn":"","category_zh":"","topics_zh":[]}]}\n'
+                "每个输出 item 必须保留输入项目的 id，不要改写 id。"
+                '返回 JSON：{"items":[{"id":"","name":"","name_zh":"","summary_zh":"","capability_cn":"","why_cn":"","judgment_cn":"","category_zh":"","topics_zh":[]}]}\n'
                 f"项目列表：{payload}"
             )
             try:
@@ -579,8 +581,8 @@ class AIDigestRunner:
                 result = {}
 
             localized_map = self._build_localized_item_map(result.get("items", []))
-            for project in batch:
-                item = self._find_localized_item(project, localized_map)
+            for index, project in enumerate(batch):
+                item = self._find_localized_item(project, localized_map, f"p{index}")
                 project.name_zh = str(item.get("name_zh") or "").strip() or None
                 project.summary_zh = str(item.get("summary_zh") or "").strip() or self._fallback_project_summary(project)
                 project.capability_cn = str(item.get("capability_cn") or "").strip() or None
@@ -619,6 +621,9 @@ class AIDigestRunner:
     def _build_localized_item_map(cls, items: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
         localized: dict[str, dict[str, Any]] = {}
         for item in items:
+            item_id = str(item.get("id") or "").strip()
+            if item_id:
+                localized.setdefault(f"id:{item_id}", item)
             name = str(item.get("name") or "").strip()
             if not name:
                 continue
@@ -631,7 +636,11 @@ class AIDigestRunner:
         cls,
         project: AIProject,
         localized_map: dict[str, dict[str, Any]],
+        item_id: str,
     ) -> dict[str, Any]:
+        item = localized_map.get(f"id:{item_id}")
+        if item:
+            return item
         for key in cls._name_match_keys(project.name):
             item = localized_map.get(key)
             if item:

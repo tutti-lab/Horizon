@@ -4,6 +4,8 @@ import json
 import re
 from typing import Optional
 
+import json_repair
+
 
 def parse_json_response(response: str) -> Optional[dict]:
     """Try multiple strategies to extract a JSON object from an AI response.
@@ -53,8 +55,23 @@ def parse_json_response(response: str) -> Optional[dict]:
             return json.loads(match.group())
         except (json.JSONDecodeError, ValueError):
             pass
+        repaired = _repair_json_object(match.group())
+        if repaired:
+            return repaired
+
+    repaired = _repair_json_object(text)
+    if repaired:
+        return repaired
 
     return None
+
+
+def _repair_json_object(text: str) -> Optional[dict]:
+    try:
+        result = json_repair.loads(text)
+    except Exception:
+        return None
+    return result if isinstance(result, dict) else None
 
 
 def _json_object_spans(text: str) -> list[tuple[int, int]]:

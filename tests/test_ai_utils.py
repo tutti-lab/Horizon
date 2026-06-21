@@ -24,3 +24,22 @@ The requested format is {"items":[{"name":"","summary_zh":""}]}.
             }
         ]
     }
+
+
+def test_parse_json_response_repairs_malformed_llm_json():
+    response = """
+Here is the JSON:
+{items:[{id:"p0",name:"Kong/insomnia",summary_zh:"开源跨平台 API 客户端",},],}
+"""
+
+    result = parse_json_response(response)
+
+    assert result == {
+        "items": [
+            {
+                "id": "p0",
+                "name": "Kong/insomnia",
+                "summary_zh": "开源跨平台 API 客户端",
+            }
+        ]
+    }
