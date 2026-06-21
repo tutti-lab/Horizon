@@ -60,6 +60,20 @@ def test_needs_project_localization_flags_english_summary():
     assert AIDigestRunner._needs_project_localization(project)
 
 
+def test_needs_project_localization_flags_incomplete_ellipsis_summary():
+    project = AIProject(
+        source="github_trending",
+        rank=1,
+        name="demo/repo",
+        description="",
+        url="https://github.com/demo/repo",
+        topics=["Artificial Intelligence"],
+        summary_zh="这是一个围绕人工智能的项目…",
+    )
+
+    assert AIDigestRunner._needs_project_localization(project)
+
+
 def test_fallback_project_summary_returns_chinese_without_raw_english_context():
     project = AIProject(
         source="product_hunt",
@@ -86,6 +100,17 @@ def test_normalize_chinese_project_text_replaces_product_hunt_boilerplate():
 
     assert "Product Hunt" not in normalized
     assert "人工智能相关方向近期关注度较高" in normalized
+
+
+def test_normalize_chinese_project_text_rejects_ellipsis():
+    normalized = AIDigestRunner._normalize_chinese_project_text(
+        "项目定位：近期在 Product Hunt 榜单中 Pro…",
+        fallback="围绕 AI 工作流的效率工具，近期榜单关注度较高。",
+    )
+
+    assert normalized == "围绕 AI 工作流的效率工具，近期榜单关注度较高。"
+    assert "..." not in normalized
+    assert "…" not in normalized
 
 
 def test_fallback_topics_zh_translates_english_repo_tags():

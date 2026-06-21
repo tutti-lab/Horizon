@@ -559,7 +559,7 @@ class AIDigestRunner:
             ]
             system = (
                 "你是一名双语 AI 产品分析师。请把项目摘要、核心能力、亮点判断、主题和分类全部转成自然中文，只返回 JSON。"
-                "输出必须以中文为主，保留仓库名或产品名原文作为标识，不要直接复制长段英文、页面标题或搜索结果标题。"
+                "输出必须以中文为主，保留仓库名或产品名原文作为标识，不要直接复制长段英文、页面标题或搜索结果标题，不要使用省略号。"
                 "项目定位不超过44字，核心能力不超过36字，看点不超过42字，判断不超过32字。"
             )
             user = (
@@ -809,6 +809,8 @@ class AIDigestRunner:
             return True
         if not cls._contains_chinese(summary):
             return True
+        if cls._contains_ellipsis(summary):
+            return True
         if any(not cls._contains_chinese(topic) for topic in (project.topics_zh or [])):
             return True
         return False
@@ -816,7 +818,7 @@ class AIDigestRunner:
     @classmethod
     def _normalize_chinese_project_text(cls, text: str, fallback: str) -> str:
         normalized = (text or "").strip()
-        if not normalized or not cls._contains_chinese(normalized):
+        if not normalized or not cls._contains_chinese(normalized) or cls._contains_ellipsis(normalized):
             fallback_text = (fallback or "").strip()
             if cls._contains_chinese(fallback_text):
                 return fallback_text
@@ -824,6 +826,10 @@ class AIDigestRunner:
         normalized = re.sub(r"Artificial Intelligence\s*-\s*Product Hunt.*$", "人工智能相关方向近期关注度较高。", normalized)
         normalized = re.sub(r"\s+", " ", normalized).strip()
         return normalized
+
+    @staticmethod
+    def _contains_ellipsis(text: str) -> bool:
+        return "..." in text or "…" in text
 
     @staticmethod
     def _fallback_topics_zh(project: AIProject) -> list[str]:
