@@ -194,6 +194,28 @@ def test_localize_projects_matches_repo_short_name(monkeypatch):
     assert project.capability_cn == "调试 GraphQL、REST、gRPC API"
 
 
+def test_group_block_does_not_truncate_project_summary_with_ellipsis():
+    project = AIProject(
+        source="github_trending",
+        rank=8,
+        name="Kong/insomnia",
+        description="",
+        url="https://github.com/Kong/insomnia",
+        topics=["api-client"],
+        category="DevTool",
+        summary_zh="开源跨平台API客户端，支持GraphQL、REST、WebSockets、SSE和gRPC，提供云端、本地和Git存储",
+        capability_cn="多协议API测试、云端本地存储、Git集成",
+        why_cn="开发者必备的API调试工具",
+        judgment_cn="API开发测试的标准工具",
+    )
+
+    block = project.to_group_block(1)
+
+    assert "..." not in block
+    assert "…" not in block
+    assert "gRPC，提供云端、本地和Git存储" in block
+
+
 def test_localize_projects_splits_large_batches(monkeypatch):
     captured_timeouts = []
 

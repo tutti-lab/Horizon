@@ -154,8 +154,6 @@ class AIProject:
         if not normalized:
             return fallback
         normalized = normalized.rstrip("。；;,. ")
-        if len(normalized) > max_len:
-            normalized = normalized[: max_len - 1].rstrip("，、； ") + "…"
         return normalized
 
 
