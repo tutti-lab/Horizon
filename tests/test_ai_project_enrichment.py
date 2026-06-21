@@ -151,6 +151,49 @@ def test_localize_projects_uses_extended_timeout(monkeypatch):
     assert project.summary_zh == "具体中文摘要"
 
 
+def test_localize_projects_matches_repo_short_name(monkeypatch):
+    class FakeAIClient:
+        async def complete(self, **_kwargs):
+            return json.dumps(
+                {
+                    "items": [
+                        {
+                            "name": "insomnia",
+                            "summary_zh": "开源跨平台 API 客户端",
+                            "capability_cn": "调试 GraphQL、REST、gRPC API",
+                            "why_cn": "支持多协议 API 调试与协作",
+                            "judgment_cn": "成熟的 API 开发工具",
+                            "category_zh": "开发工具",
+                            "topics_zh": ["开发工具"],
+                        }
+                    ]
+                },
+                ensure_ascii=False,
+            )
+
+    async def fake_wait_for(awaitable, timeout):
+        return await awaitable
+
+    monkeypatch.setattr("src.digests.ai_runner.asyncio.wait_for", fake_wait_for)
+    client = httpx.AsyncClient(transport=httpx.MockTransport(lambda _request: httpx.Response(404)))
+    runner = AIDigestRunner(AIDigestConfig(enabled=True, top_n=1), SourcesConfig(), FakeAIClient(), client)
+    project = AIProject(
+        source="github_trending",
+        rank=8,
+        name="Kong/insomnia",
+        description="The open-source, cross-platform API client",
+        url="https://github.com/Kong/insomnia",
+        topics=["api-client"],
+        category="DevTool",
+    )
+
+    asyncio.run(runner._localize_projects([project]))
+    asyncio.run(client.aclose())
+
+    assert project.summary_zh == "开源跨平台 API 客户端"
+    assert project.capability_cn == "调试 GraphQL、REST、gRPC API"
+
+
 def test_localize_projects_splits_large_batches(monkeypatch):
     captured_timeouts = []
 

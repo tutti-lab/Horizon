@@ -580,9 +580,9 @@ class AIDigestRunner:
                 )
                 result = {}
 
-            localized_map = {str(item.get("name")): item for item in result.get("items", []) if item.get("name")}
+            localized_map = self._build_localized_item_map(result.get("items", []))
             for project in batch:
-                item = localized_map.get(project.name, {})
+                item = self._find_localized_item(project, localized_map)
                 project.name_zh = str(item.get("name_zh") or "").strip() or None
                 project.summary_zh = str(item.get("summary_zh") or "").strip() or self._fallback_project_summary(project)
                 project.capability_cn = str(item.get("capability_cn") or "").strip() or None
@@ -616,6 +616,43 @@ class AIDigestRunner:
                     project.judgment_cn or "",
                     fallback=self._fallback_project_judgment(project),
                 )
+
+    @classmethod
+    def _build_localized_item_map(cls, items: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
+        localized: dict[str, dict[str, Any]] = {}
+        for item in items:
+            name = str(item.get("name") or "").strip()
+            if not name:
+                continue
+            for key in cls._name_match_keys(name):
+                localized.setdefault(key, item)
+        return localized
+
+    @classmethod
+    def _find_localized_item(
+        cls,
+        project: AIProject,
+        localized_map: dict[str, dict[str, Any]],
+    ) -> dict[str, Any]:
+        for key in cls._name_match_keys(project.name):
+            item = localized_map.get(key)
+            if item:
+                return item
+        return {}
+
+    @staticmethod
+    def _name_match_keys(name: str) -> list[str]:
+        normalized = re.sub(r"\s+", " ", (name or "").strip()).lower()
+        if not normalized:
+            return []
+
+        keys = [normalized]
+        if "/" in normalized:
+            keys.append(normalized.rsplit("/", 1)[-1])
+        paren_match = re.search(r"（([^）]+)）|\\(([^)]+)\\)", normalized)
+        if paren_match:
+            keys.append((paren_match.group(1) or paren_match.group(2) or "").strip())
+        return list(dict.fromkeys(key for key in keys if key))
 
     @staticmethod
     def _infer_topics_from_repo(text: str) -> list[str]:
