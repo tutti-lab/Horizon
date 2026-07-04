@@ -98,12 +98,12 @@ kind: ai
    - 核心能力：开源工具
    - 看点：Pixel Machha 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [Subhive](https://www.producthunt.com/products/subhive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+2. [Subhive](https://www.producthunt.com/products/subhive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
    - 项目定位：Subhive 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Subhive 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Cited](https://www.producthunt.com/products/cited-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
+3. [Cited](https://www.producthunt.com/products/cited-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：Cited 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：Cited 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -117,7 +117,7 @@ kind: ai
    - 判断：代表设计创作方向继续升温
 
 ### 模型基础设施（1个项目｜GitHub 0｜PH 1）
-1. [Alvoff Inference - Fast, cheap STT · TTS](https://www.producthunt.com/products/alvoff-inference-fast-cheap-stt-tts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+1. [Alvoff Inference - Fast, cheap STT · TTS](https://www.producthunt.com/products/alvoff-inference-fast-cheap-stt-tts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
    - 项目定位：Alvoff Inference - Fast, cheap STT · TTS 是一个围绕模型基础设施、人工智能、音频的模型基础设施项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：模型基础设施、人工智能
    - 看点：Alvoff Inference - Fast, cheap STT · TTS 在 Product Hunt 榜单靠前，说明方向有真实关注度
