@@ -25,7 +25,7 @@ kind: ai
    - 核心能力：人工智能、智能体
    - 看点：huggingface/speech-to-speech 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-2. [Memmy Agent](https://www.producthunt.com/products/memmy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
+2. [Memmy Agent](https://www.producthunt.com/products/memmy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
    - 项目定位：Memmy Agent 是一个围绕效率办公、开源、人工智能的智能体项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、开源
    - 看点：Memmy Agent 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -43,15 +43,15 @@ kind: ai
    - 核心能力：效率办公、人工智能
    - 看点：Pally 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [Focus Room](https://www.producthunt.com/products/focus-room?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
-   - 项目定位：Focus Room 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：Focus Room 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-3. [Expert Chase for iOS & Android](https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+2. [Expert Chase for iOS & Android](https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
    - 项目定位：Expert Chase for iOS & Android 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Expert Chase for iOS & Android 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+3. [Focus Room](https://www.producthunt.com/products/focus-room?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+   - 项目定位：Focus Room 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：Focus Room 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
 其余项目：Yap； Laxis；docktor；Cursor Crane 等6个项目
 
@@ -104,7 +104,7 @@ kind: ai
    - 判断：代表开发工具方向继续升温
 
 ### 开源工具（2个项目｜GitHub 0｜PH 2）
-1. [AI Search Console](https://www.producthunt.com/products/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
+1. [AI Search Console](https://www.producthunt.com/products/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
    - 项目定位：AI Search Console 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：AI Search Console 在 Product Hunt 榜单靠前，说明方向有真实关注度
