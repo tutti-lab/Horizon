@@ -84,7 +84,7 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Hand Wave 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [CoachAI](https://www.producthunt.com/products/coachai-fitness-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
+3. [CoachAI](https://www.producthunt.com/products/coachai-fitness-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
    - 项目定位：CoachAI 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：CoachAI 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -102,7 +102,7 @@ kind: ai
    - 核心能力：设计创作、人工智能
    - 看点：PassiveShorts 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-3. [Doxy](https://www.producthunt.com/products/doxy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+3. [Doxy](https://www.producthunt.com/products/doxy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
    - 项目定位：Doxy 是一个围绕设计 / 开发工具、效率办公、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、效率办公
    - 看点：Doxy 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -114,12 +114,12 @@ kind: ai
    - 核心能力：效率办公、音频
    - 看点：yapyap 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [MacDupl](https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
+2. [MacDupl](https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
    - 项目定位：MacDupl 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：MacDupl 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [The Garden of Mind](https://www.producthunt.com/products/the-garden-of-mind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
+3. [The Garden of Mind](https://www.producthunt.com/products/the-garden-of-mind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：The Garden of Mind 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：The Garden of Mind 在 Product Hunt 榜单靠前，说明方向有真实关注度
