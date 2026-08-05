@@ -35,10 +35,10 @@ kind: ai
    - 核心能力：智能体
    - 看点：firecrawl/pdf-inspector 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：uber/ADR；obra/superpowers；Driven；cypress-io/cypress 等13个项目
+其余项目：Driven；uber/ADR；obra/superpowers；cypress-io/cypress 等13个项目
 
 ### 开发工具（10个项目｜GitHub 3｜PH 7）
-1. [Atlaso](https://www.producthunt.com/products/atlaso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
+1. [Atlaso](https://www.producthunt.com/products/atlaso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
    - 项目定位：Atlaso 是一个围绕效率办公、开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、开发工具
    - 看点：Atlaso 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -56,7 +56,7 @@ kind: ai
 其余项目：denoland/deno；Glasp MCP Connector；space ocr；angular/angular 等7个项目
 
 ### 数据（4个项目｜GitHub 2｜PH 2）
-1. [Dashi Metrics](https://www.producthunt.com/products/dashi-metrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
+1. [Dashi Metrics](https://www.producthunt.com/products/dashi-metrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
    - 项目定位：Dashi Metrics 是一个围绕数据的数据项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：数据
    - 看点：Dashi Metrics 在 Product Hunt 榜单靠前，说明方向有真实关注度
