@@ -53,7 +53,7 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：BackEngine MCP 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：X Money；Dover MCP；Keytones；JustInterview.ai 等5个项目
+其余项目：Dover MCP；X Money；Keytones；JustInterview.ai 等5个项目
 
 ### 开发工具（3个项目｜GitHub 1｜PH 2）
 1. [ngrok AI Gateway](https://www.producthunt.com/products/ngrok-ai-gateway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
