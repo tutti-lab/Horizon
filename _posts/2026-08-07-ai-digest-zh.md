@@ -79,7 +79,7 @@ kind: ai
    - 核心能力：开源工具、苹果生态
    - 看点：Ododok 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [hey postcard - digital postcards](https://www.producthunt.com/products/hey-postcard-slow-messaging?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+2. [hey postcard - digital postcards](https://www.producthunt.com/products/hey-postcard-slow-messaging?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：hey postcard - digital postcards 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：hey postcard - digital postcards 在 Product Hunt 榜单靠前，说明方向有真实关注度
