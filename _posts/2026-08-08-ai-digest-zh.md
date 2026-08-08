@@ -79,7 +79,7 @@ kind: ai
    - 核心能力：设计创作、效率办公
    - 看点：AndroMeld 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [Rescript for Desktop](https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+2. [Rescript for Desktop](https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
    - 项目定位：Rescript for Desktop 是一个围绕效率办公、开源、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、开源
    - 看点：Rescript for Desktop 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -93,7 +93,7 @@ kind: ai
    - 判断：代表效率办公方向继续升温
 
 ### 开源工具（1个项目｜GitHub 0｜PH 1）
-1. [Blueberry](https://www.producthunt.com/products/blueberry-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
+1. [Blueberry](https://www.producthunt.com/products/blueberry-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
    - 项目定位：Blueberry 是一个围绕人工智能、开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：人工智能、开源工具
    - 看点：Blueberry 在 Product Hunt 榜单靠前，说明方向有真实关注度
