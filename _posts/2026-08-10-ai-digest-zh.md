@@ -97,7 +97,7 @@ kind: ai
    - 核心能力：数据、人工智能
    - 看点：google-deepmind/weathernext 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
-2. [ConferenceGrid](https://www.producthunt.com/products/conferencegrid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+2. [ConferenceGrid](https://www.producthunt.com/products/conferencegrid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
    - 项目定位：ConferenceGrid 是一个围绕数据的数据项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：数据
    - 看点：ConferenceGrid 在 Product Hunt 榜单靠前，说明方向有真实关注度
