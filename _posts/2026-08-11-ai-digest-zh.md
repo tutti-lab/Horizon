@@ -10,33 +10,33 @@ kind: ai
 
 ## 分类热度榜
 
-1. 智能体（16个项目｜GitHub 10｜PH 6）
+1. 智能体（18个项目｜GitHub 12｜PH 6）
 2. 开发工具（6个项目｜GitHub 1｜PH 5）
 3. 效率办公（6个项目｜GitHub 0｜PH 6）
-4. 数据（1个项目｜GitHub 1｜PH 0）
-5. 设计创作（1个项目｜GitHub 0｜PH 1）
-6. 模型基础设施（1个项目｜GitHub 0｜PH 1）
-7. 开源工具（1个项目｜GitHub 0｜PH 1）
+4. 数据（2个项目｜GitHub 2｜PH 0）
+5. 开源工具（2个项目｜GitHub 1｜PH 1）
+6. 设计创作（1个项目｜GitHub 0｜PH 1）
+7. 模型基础设施（1个项目｜GitHub 0｜PH 1）
 
 ## 分类项目看板
 
-### 智能体（16个项目｜GitHub 10｜PH 6）
-1. [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | GitHub #1
-   - 项目定位：PrimeIntellect-ai/prime-agent 是一个围绕人工智能、开发工具、设计创作的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：人工智能、开发工具
-   - 看点：PrimeIntellect-ai/prime-agent 在 GitHub 榜单靠前，说明方向有真实关注度
+### 智能体（18个项目｜GitHub 12｜PH 6）
+1. [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | GitHub #1
+   - 项目定位：semantica-agi/semantica 是一个围绕智能体、人工智能的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：智能体、人工智能
+   - 看点：semantica-agi/semantica 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-2. [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | GitHub #2
-   - 项目定位：vitali87/code-graph-rag 是一个围绕人工智能、智能体、Claude生态 / 编程的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：人工智能、智能体
-   - 看点：vitali87/code-graph-rag 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表智能体方向继续升温
-3. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | GitHub #3
+2. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | GitHub #2
    - 项目定位：msitarzewski/agency-agents 是一个围绕人工智能、开发工具、数据的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：人工智能、开发工具
    - 看点：msitarzewski/agency-agents 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：Paritok；pranshuparmar/witr；addyosmani/agent-skills；Prime Agent 等13个项目
+3. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | GitHub #3
+   - 项目定位：NanmiCoder/MediaCrawler 是一个围绕人工智能、开发工具的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：人工智能、开发工具
+   - 看点：NanmiCoder/MediaCrawler 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表智能体方向继续升温
+其余项目：Paritok；addyosmani/agent-skills；paperclipai/paperclip；PrimeIntellect-ai/prime-agent 等15个项目
 
 ### 开发工具（6个项目｜GitHub 1｜PH 5）
 1. [oqoqo](https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
@@ -49,7 +49,7 @@ kind: ai
    - 核心能力：设计 / 开发工具、开发工具
    - 看点：Remix 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | GitHub #10
+3. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | GitHub #15
    - 项目定位：Comfy-Org/ComfyUI 是一个围绕人工智能、开发工具的开发工具项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：人工智能、开发工具
    - 看点：Comfy-Org/ComfyUI 在 GitHub 榜单靠前，说明方向有真实关注度
@@ -74,12 +74,29 @@ kind: ai
    - 判断：代表效率办公方向继续升温
 其余项目：Gutta；Vidaya；t0md
 
-### 数据（1个项目｜GitHub 1｜PH 0）
-1. [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | GitHub #5
+### 数据（2个项目｜GitHub 2｜PH 0）
+1. [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | GitHub #9
+   - 项目定位：danielmiessler/LifeOS 是一个围绕人工智能、数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：人工智能、数据
+   - 看点：danielmiessler/LifeOS 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表数据方向继续升温
+2. [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | GitHub #12
    - 项目定位：google-deepmind/weathernext 是一个围绕数据、人工智能的数据项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：数据、人工智能
    - 看点：google-deepmind/weathernext 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
+
+### 开源工具（2个项目｜GitHub 1｜PH 1）
+1. [opa334/Dopamine](https://github.com/opa334/Dopamine) | GitHub #16
+   - 项目定位：opa334/Dopamine 是一个围绕人工智能的开源工具项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：人工智能
+   - 看点：opa334/Dopamine 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表开源工具方向继续升温
+2. [Account Moodboard](https://www.producthunt.com/products/oriane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
+   - 项目定位：Account Moodboard 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：开源工具、人工智能
+   - 看点：Account Moodboard 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表开源工具方向继续升温
 
 ### 设计创作（1个项目｜GitHub 0｜PH 1）
 1. [PostSnag](https://www.producthunt.com/products/postsnag?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
@@ -94,13 +111,6 @@ kind: ai
    - 核心能力：设计 / 开发工具、模型基础设施
    - 看点：Supamodel 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表模型基础设施方向继续升温
-
-### 开源工具（1个项目｜GitHub 0｜PH 1）
-1. [Account Moodboard](https://www.producthunt.com/products/oriane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
-   - 项目定位：Account Moodboard 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：开源工具、人工智能
-   - 看点：Account Moodboard 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开源工具方向继续升温
 
 ## 后续趋势判断
 
