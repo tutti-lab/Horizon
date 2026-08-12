@@ -65,7 +65,7 @@ kind: ai
    - 核心能力：开发工具、人工智能
    - 看点：bb 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [Gitar](https://www.producthunt.com/products/gitar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+3. [Gitar](https://www.producthunt.com/products/gitar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
    - 项目定位：Gitar 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
    - 看点：Gitar 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -90,7 +90,7 @@ kind: ai
    - 判断：代表数据方向继续升温
 
 ### 开源工具（1个项目｜GitHub 0｜PH 1）
-1. [Cerenovus](https://www.producthunt.com/products/cerenovus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+1. [Cerenovus](https://www.producthunt.com/products/cerenovus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
    - 项目定位：Cerenovus 是一个围绕人工智能、开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：人工智能、开源工具
    - 看点：Cerenovus 在 Product Hunt 榜单靠前，说明方向有真实关注度
