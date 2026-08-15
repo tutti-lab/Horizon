@@ -10,8 +10,8 @@ kind: ai
 
 ## 分类热度榜
 
-1. 智能体（17个项目｜GitHub 12｜PH 5）
-2. 数据（6个项目｜GitHub 5｜PH 1）
+1. 智能体（18个项目｜GitHub 13｜PH 5）
+2. 数据（5个项目｜GitHub 4｜PH 1）
 3. 开源工具（4个项目｜GitHub 0｜PH 4）
 4. 开发工具（4个项目｜GitHub 0｜PH 4）
 5. 设计创作（3个项目｜GitHub 0｜PH 3）
@@ -20,41 +20,41 @@ kind: ai
 
 ## 分类项目看板
 
-### 智能体（17个项目｜GitHub 12｜PH 5）
+### 智能体（18个项目｜GitHub 13｜PH 5）
 1. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | GitHub #1
    - 项目定位：cathrynlavery/diagram-design 是一个围绕人工智能、开发工具、数据的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：人工智能、开发工具
    - 看点：cathrynlavery/diagram-design 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-2. [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | GitHub #2
-   - 项目定位：semantica-agi/semantica 是一个围绕智能体、人工智能的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：智能体、人工智能
-   - 看点：semantica-agi/semantica 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表智能体方向继续升温
-3. [Freebuff](https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
+2. [Freebuff](https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
    - 项目定位：Freebuff 是一个围绕智能体、开发工具的智能体项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：智能体、开发工具
    - 看点：Freebuff 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：anthropics/skills；BrowserAct Cloud；Gemini 3.7 Flash；unslothai/unsloth 等14个项目
+3. [BrowserAct Cloud](https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
+   - 项目定位：BrowserAct Cloud 是一个围绕智能体、开发工具、编程的智能体项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：智能体、开发工具
+   - 看点：BrowserAct Cloud 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表智能体方向继续升温
+其余项目：macro-inc/macro；Gemini 3.7 Flash；smicallef/spiderfoot；citrolabs/ego-lite 等15个项目
 
-### 数据（6个项目｜GitHub 5｜PH 1）
-1. [cactus-compute/needle](https://github.com/cactus-compute/needle) | GitHub #4
+### 数据（5个项目｜GitHub 4｜PH 1）
+1. [cactus-compute/needle](https://github.com/cactus-compute/needle) | GitHub #2
    - 项目定位：cactus-compute/needle 是一个围绕数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：数据
    - 看点：cactus-compute/needle 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
-2. [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | GitHub #5
-   - 项目定位：altic-dev/FluidVoice 是一个围绕人工智能、数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：人工智能、数据
-   - 看点：altic-dev/FluidVoice 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表数据方向继续升温
-3. [megadose/holehe](https://github.com/megadose/holehe) | GitHub #8
+2. [megadose/holehe](https://github.com/megadose/holehe) | GitHub #3
    - 项目定位：megadose/holehe 是一个围绕数据、邮件的数据项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：数据、邮件
    - 看点：megadose/holehe 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
-其余项目：Lightricks/LTX-2；lightningpixel/modly；ChordViz
+3. [lightningpixel/modly](https://github.com/lightningpixel/modly) | GitHub #9
+   - 项目定位：lightningpixel/modly 是一个围绕数据、人工智能、人工智能 / 开发工具的数据项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：数据、人工智能
+   - 看点：lightningpixel/modly 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表数据方向继续升温
+其余项目：rustdesk/rustdesk；ChordViz
 
 ### 开源工具（4个项目｜GitHub 0｜PH 4）
 1. [Outcome ](https://www.producthunt.com/products/contentblocks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
