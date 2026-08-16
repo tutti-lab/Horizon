@@ -10,33 +10,33 @@ kind: ai
 
 ## 分类热度榜
 
-1. 智能体（16个项目｜GitHub 13｜PH 3）
+1. 智能体（12个项目｜GitHub 9｜PH 3）
 2. 效率办公（7个项目｜GitHub 0｜PH 7）
 3. 开发工具（4个项目｜GitHub 0｜PH 4）
-4. 数据（4个项目｜GitHub 4｜PH 0）
-5. 开源工具（4个项目｜GitHub 0｜PH 4）
+4. 开源工具（4个项目｜GitHub 0｜PH 4）
+5. 数据（4个项目｜GitHub 4｜PH 0）
 6. 模型基础设施（1个项目｜GitHub 0｜PH 1）
 7. 设计创作（1个项目｜GitHub 0｜PH 1）
 
 ## 分类项目看板
 
-### 智能体（16个项目｜GitHub 13｜PH 3）
-1. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | GitHub #1
+### 智能体（12个项目｜GitHub 9｜PH 3）
+1. [cordiverse/cordis](https://github.com/cordiverse/cordis) | GitHub #1
+   - 项目定位：cordiverse/cordis 是一个围绕智能体的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：智能体
+   - 看点：cordiverse/cordis 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表智能体方向继续升温
+2. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | GitHub #2
    - 项目定位：cathrynlavery/diagram-design 是一个围绕人工智能、开发工具、数据的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：人工智能、开发工具
    - 看点：cathrynlavery/diagram-design 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-2. [macro-inc/macro](https://github.com/macro-inc/macro) | GitHub #4
-   - 项目定位：macro-inc/macro 是一个围绕智能体、人工智能、人工智能 / 智能体的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：智能体、人工智能
-   - 看点：macro-inc/macro 在 GitHub 榜单靠前，说明方向有真实关注度
+3. [cursor/plugins](https://github.com/cursor/plugins) | GitHub #3
+   - 项目定位：cursor/plugins 是一个围绕人工智能、开发工具、设计创作的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：人工智能、开发工具
+   - 看点：cursor/plugins 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-3. [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | GitHub #5
-   - 项目定位：smicallef/spiderfoot 是一个围绕智能体的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：智能体
-   - 看点：smicallef/spiderfoot 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表智能体方向继续升温
-其余项目：citrolabs/ego-lite；holaboss-ai/holaOS；github/spec-kit；infiniflow/ragflow 等13个项目
+其余项目：unslothai/unsloth；MakazhanAlpamys/Soup；github/spec-kit；ToolJet/ToolJet 等9个项目
 
 ### 效率办公（7个项目｜GitHub 0｜PH 7）
 1. [Zetik](https://www.producthunt.com/products/zetik?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
@@ -74,24 +74,6 @@ kind: ai
    - 判断：代表开发工具方向继续升温
 其余项目：Nick Launches
 
-### 数据（4个项目｜GitHub 4｜PH 0）
-1. [cactus-compute/needle](https://github.com/cactus-compute/needle) | GitHub #2
-   - 项目定位：cactus-compute/needle 是一个围绕数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：数据
-   - 看点：cactus-compute/needle 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表数据方向继续升温
-2. [megadose/holehe](https://github.com/megadose/holehe) | GitHub #3
-   - 项目定位：megadose/holehe 是一个围绕数据、邮件的数据项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：数据、邮件
-   - 看点：megadose/holehe 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表数据方向继续升温
-3. [lightningpixel/modly](https://github.com/lightningpixel/modly) | GitHub #9
-   - 项目定位：lightningpixel/modly 是一个围绕数据、人工智能、人工智能 / 开发工具的数据项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：数据、人工智能
-   - 看点：lightningpixel/modly 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表数据方向继续升温
-其余项目：rustdesk/rustdesk
-
 ### 开源工具（4个项目｜GitHub 0｜PH 4）
 1. [Big Mike](https://www.producthunt.com/products/big-mike?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
    - 项目定位：Big Mike 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
@@ -109,6 +91,24 @@ kind: ai
    - 看点：ResearchMaster AI 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
 其余项目：Leadline V3
+
+### 数据（4个项目｜GitHub 4｜PH 0）
+1. [cactus-compute/needle](https://github.com/cactus-compute/needle) | GitHub #4
+   - 项目定位：cactus-compute/needle 是一个围绕数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：数据
+   - 看点：cactus-compute/needle 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表数据方向继续升温
+2. [public-apis/public-apis](https://github.com/public-apis/public-apis) | GitHub #6
+   - 项目定位：public-apis/public-apis 是一个围绕数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：数据
+   - 看点：public-apis/public-apis 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表数据方向继续升温
+3. [megadose/holehe](https://github.com/megadose/holehe) | GitHub #9
+   - 项目定位：megadose/holehe 是一个围绕数据、邮件的数据项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：数据、邮件
+   - 看点：megadose/holehe 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表数据方向继续升温
+其余项目：altic-dev/FluidVoice
 
 ### 模型基础设施（1个项目｜GitHub 0｜PH 1）
 1. [nenspace](https://www.producthunt.com/products/nenspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
