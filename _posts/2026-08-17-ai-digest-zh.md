@@ -10,9 +10,9 @@ kind: ai
 
 ## 分类热度榜
 
-1. 智能体（13个项目｜GitHub 9｜PH 4）
-2. 数据（6个项目｜GitHub 4｜PH 2）
-3. 开发工具（5个项目｜GitHub 0｜PH 5）
+1. 智能体（8个项目｜GitHub 4｜PH 4）
+2. 开发工具（6个项目｜GitHub 1｜PH 5）
+3. 数据（4个项目｜GitHub 2｜PH 2）
 4. 开源工具（4个项目｜GitHub 0｜PH 4）
 5. 效率办公（2个项目｜GitHub 0｜PH 2）
 6. 设计创作（2个项目｜GitHub 0｜PH 2）
@@ -20,59 +20,59 @@ kind: ai
 
 ## 分类项目看板
 
-### 智能体（13个项目｜GitHub 9｜PH 4）
+### 智能体（8个项目｜GitHub 4｜PH 4）
 1. [cordiverse/cordis](https://github.com/cordiverse/cordis) | GitHub #1
    - 项目定位：cordiverse/cordis 是一个围绕智能体的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：智能体
    - 看点：cordiverse/cordis 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-2. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | GitHub #2
-   - 项目定位：cathrynlavery/diagram-design 是一个围绕人工智能、开发工具、数据的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：人工智能、开发工具
-   - 看点：cathrynlavery/diagram-design 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表智能体方向继续升温
-3. [HarnessRouter Community Edition](https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
+2. [HarnessRouter Community Edition](https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
    - 项目定位：HarnessRouter Community Edition 是一个围绕智能体、开发工具、人工智能的智能体项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：智能体、开发工具
    - 看点：HarnessRouter Community Edition 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：cursor/plugins；unslothai/unsloth；Chert；MakazhanAlpamys/Soup 等10个项目
+3. [unslothai/unsloth](https://github.com/unslothai/unsloth) | GitHub #3
+   - 项目定位：unslothai/unsloth 是一个围绕智能体、人工智能的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：智能体、人工智能
+   - 看点：unslothai/unsloth 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表智能体方向继续升温
+其余项目：OpenCut-app/OpenCut；Chert；ToolJet/ToolJet；Vaaya 等5个项目
 
-### 数据（6个项目｜GitHub 4｜PH 2）
-1. [cactus-compute/needle](https://github.com/cactus-compute/needle) | GitHub #4
-   - 项目定位：cactus-compute/needle 是一个围绕数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：数据
-   - 看点：cactus-compute/needle 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表数据方向继续升温
-2. [public-apis/public-apis](https://github.com/public-apis/public-apis) | GitHub #6
-   - 项目定位：public-apis/public-apis 是一个围绕数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：数据
-   - 看点：public-apis/public-apis 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表数据方向继续升温
-3. [megadose/holehe](https://github.com/megadose/holehe) | GitHub #9
-   - 项目定位：megadose/holehe 是一个围绕数据、邮件的数据项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：数据、邮件
-   - 看点：megadose/holehe 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表数据方向继续升温
-其余项目：altic-dev/FluidVoice；Assetli.app；Fabbit
-
-### 开发工具（5个项目｜GitHub 0｜PH 5）
+### 开发工具（6个项目｜GitHub 1｜PH 5）
 1. [Blume](https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
    - 项目定位：Blume 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具
    - 看点：Blume 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [Mac Developer Bridge](https://www.producthunt.com/products/mac-developer-bridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+2. [basecamp/omarchy](https://github.com/basecamp/omarchy) | GitHub #2
+   - 项目定位：basecamp/omarchy 是一个围绕人工智能、开发工具的开发工具项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：人工智能、开发工具
+   - 看点：basecamp/omarchy 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表开发工具方向继续升温
+3. [Mac Developer Bridge](https://www.producthunt.com/products/mac-developer-bridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
    - 项目定位：Mac Developer Bridge 是一个围绕开发工具、开源的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、开源
    - 看点：Mac Developer Bridge 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [Make it RAIN](https://www.producthunt.com/products/make-it-rain-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
-   - 项目定位：Make it RAIN 是一个围绕开发工具、编程的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：开发工具、编程
-   - 看点：Make it RAIN 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开发工具方向继续升温
-其余项目：Nthly - 2FA Authenticator；GetAppNiche
+其余项目：Make it RAIN；Nthly - 2FA Authenticator；GetAppNiche
+
+### 数据（4个项目｜GitHub 2｜PH 2）
+1. [public-apis/public-apis](https://github.com/public-apis/public-apis) | GitHub #5
+   - 项目定位：public-apis/public-apis 是一个围绕数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：数据
+   - 看点：public-apis/public-apis 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表数据方向继续升温
+2. [cactus-compute/needle](https://github.com/cactus-compute/needle) | GitHub #7
+   - 项目定位：cactus-compute/needle 是一个围绕数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：数据
+   - 看点：cactus-compute/needle 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表数据方向继续升温
+3. [Assetli.app](https://www.producthunt.com/products/assetli-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+   - 项目定位：Assetli.app 是一个围绕数据、人工智能、金融的数据项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：数据、人工智能
+   - 看点：Assetli.app 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表数据方向继续升温
+其余项目：Fabbit
 
 ### 开源工具（4个项目｜GitHub 0｜PH 4）
 1. [AirAlarm](https://www.producthunt.com/products/airalarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
@@ -110,10 +110,10 @@ kind: ai
    - 核心能力：设计创作、人工智能
    - 看点：ShouldBuild 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [PixelGlass](https://www.producthunt.com/products/pixelglass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
-   - 项目定位：PixelGlass 是一个围绕设计 / 开发工具、设计创作、编程的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：设计 / 开发工具、设计创作
-   - 看点：PixelGlass 在 Product Hunt 榜单靠前，说明方向有真实关注度
+2. [Harbor ATS/CRM](https://www.producthunt.com/products/harbor-ats-crm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+   - 项目定位：Harbor ATS/CRM 是一个围绕设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：设计创作
+   - 看点：Harbor ATS/CRM 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
 
 ### 模型基础设施（1个项目｜GitHub 0｜PH 1）
