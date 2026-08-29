@@ -44,7 +44,7 @@ kind: ai
    - 核心能力：效率办公、人工智能
    - 看点：PageIndex 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [OpenTag](https://www.producthunt.com/products/opentag?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+2. [OpenTag](https://www.producthunt.com/products/opentag?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
    - 项目定位：OpenTag 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：OpenTag 在 Product Hunt 榜单靠前，说明方向有真实关注度
