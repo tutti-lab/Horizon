@@ -67,12 +67,12 @@ kind: ai
    - 核心能力：效率办公
    - 看点：WIT 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [Einfall](https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
-   - 项目定位：Einfall 是一个围绕效率办公、苹果生态的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+3. [Tiles](https://www.producthunt.com/products/tiles-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+   - 项目定位：Tiles 是一个围绕效率办公、苹果生态的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、苹果生态
-   - 看点：Einfall 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 看点：Tiles 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-其余项目：Tiles；Any Command；Mole
+其余项目：Einfall；Any Command；Mole
 
 ### 数据（4个项目｜GitHub 3｜PH 1）
 1. [Cohere Parse 5](https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
