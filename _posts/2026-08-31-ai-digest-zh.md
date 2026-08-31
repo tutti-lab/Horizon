@@ -88,7 +88,7 @@ kind: ai
    - 核心能力：开发工具、效率办公
    - 看点：Edge Drop 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-其余项目：Gemini Omni 1.1 Flash；Brand My Dihh
+其余项目：Gemini Omni 1.1 Flash；Cord
 
 ### 效率办公（5个项目｜GitHub 0｜PH 5）
 1. [Murfy AI](https://www.producthunt.com/products/murfy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
@@ -101,7 +101,7 @@ kind: ai
    - 核心能力：效率办公
    - 看点：Referent 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [Ulpaso](https://www.producthunt.com/products/ulpaso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+3. [Ulpaso](https://www.producthunt.com/products/ulpaso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
    - 项目定位：Ulpaso 是一个围绕效率办公、开源的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、开源
    - 看点：Ulpaso 在 Product Hunt 榜单靠前，说明方向有真实关注度
