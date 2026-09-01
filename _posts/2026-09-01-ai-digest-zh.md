@@ -12,9 +12,9 @@ kind: ai
 
 1. 智能体（16个项目｜GitHub 12｜PH 4）
 2. 开发工具（8个项目｜GitHub 3｜PH 5）
-3. 开源工具（5个项目｜GitHub 0｜PH 5）
+3. 开源工具（6个项目｜GitHub 0｜PH 6）
 4. 数据（4个项目｜GitHub 4｜PH 0）
-5. 效率办公（4个项目｜GitHub 0｜PH 4）
+5. 效率办公（3个项目｜GitHub 0｜PH 3）
 6. 设计创作（2个项目｜GitHub 0｜PH 2）
 
 ## 分类项目看板
@@ -55,23 +55,23 @@ kind: ai
    - 判断：代表开发工具方向继续升温
 其余项目：NationalSecurityAgency/ghidra；StackScope；Mascofast；GitFig 等5个项目
 
-### 开源工具（5个项目｜GitHub 0｜PH 5）
+### 开源工具（6个项目｜GitHub 0｜PH 6）
 1. [BrandJet](https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
    - 项目定位：BrandJet 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：BrandJet 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [EP–2350 FX–MIC](https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
+2. [EP–2350 FX–MIC](https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
    - 项目定位：EP–2350 FX–MIC 是一个围绕开源工具、音频的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、音频
    - 看点：EP–2350 FX–MIC 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [BrandMyLaptop](https://www.producthunt.com/products/brandmylaptop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
+3. [BrandMyLaptop](https://www.producthunt.com/products/brandmylaptop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
    - 项目定位：BrandMyLaptop 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：BrandMyLaptop 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：LeaseBase；Claimads.land
+其余项目：LeaseBase；Sunday Club；Claimads.land
 
 ### 数据（4个项目｜GitHub 4｜PH 0）
 1. [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | GitHub #3
@@ -91,13 +91,13 @@ kind: ai
    - 判断：代表数据方向继续升温
 其余项目：majd/ipatool
 
-### 效率办公（4个项目｜GitHub 0｜PH 4）
-1. [Tether](https://www.producthunt.com/products/tether-a-ball-for-boring-meetings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
+### 效率办公（3个项目｜GitHub 0｜PH 3）
+1. [Tether](https://www.producthunt.com/products/tether-a-ball-for-boring-meetings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
    - 项目定位：Tether 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：Tether 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [Orato](https://www.producthunt.com/products/orato-speech-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+2. [Orato](https://www.producthunt.com/products/orato-speech-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
    - 项目定位：Orato 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Orato 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -107,10 +107,9 @@ kind: ai
    - 核心能力：效率办公、人工智能
    - 看点：ConscioussAI 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-其余项目：Remivu
 
 ### 设计创作（2个项目｜GitHub 0｜PH 2）
-1. [Ask My Wardrobe](https://www.producthunt.com/products/ask-my-wardrobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+1. [Ask My Wardrobe](https://www.producthunt.com/products/ask-my-wardrobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
    - 项目定位：Ask My Wardrobe 是一个围绕设计 / 开发工具、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、设计创作
    - 看点：Ask My Wardrobe 在 Product Hunt 榜单靠前，说明方向有真实关注度
