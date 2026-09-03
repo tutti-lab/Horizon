@@ -35,7 +35,7 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：THU-MAIC/OpenMAIC 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：3b1b/manim；Dial；firecrawl/pdf-inspector；browser-use/video-use 等11个项目
+其余项目：3b1b/manim；firecrawl/pdf-inspector；Dial；browser-use/video-use 等11个项目
 
 ### 开发工具（7个项目｜GitHub 1｜PH 6）
 1. [Browzer](https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
@@ -48,7 +48,7 @@ kind: ai
    - 核心能力：开发工具
    - 看点：OpenClaw 2.0 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [Claude Fable 5.1](https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
+3. [Claude Fable 5.1](https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
    - 项目定位：Claude Fable 5.1 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
    - 看点：Claude Fable 5.1 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -79,12 +79,12 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Articos 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [RoundOS](https://www.producthunt.com/products/roundos-data-room?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+2. [RoundOS](https://www.producthunt.com/products/roundos-data-room?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
    - 项目定位：RoundOS 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：RoundOS 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Dyson CameraJet](https://www.producthunt.com/products/dyson-humidifier?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+3. [Dyson CameraJet](https://www.producthunt.com/products/dyson-humidifier?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
    - 项目定位：Dyson CameraJet 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Dyson CameraJet 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -92,7 +92,7 @@ kind: ai
 其余项目：deepeye by deepidv
 
 ### 效率办公（3个项目｜GitHub 0｜PH 3）
-1. [Parasocial](https://www.producthunt.com/products/parasocial?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+1. [Parasocial](https://www.producthunt.com/products/parasocial?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
    - 项目定位：Parasocial 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：Parasocial 在 Product Hunt 榜单靠前，说明方向有真实关注度
