@@ -79,27 +79,27 @@ kind: ai
    - 核心能力：开发工具、人工智能
    - 看点：Atlas by World Labs 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [CodeLook](https://www.producthunt.com/products/codelook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
-   - 项目定位：CodeLook 是一个围绕开发工具、效率办公的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：开发工具、效率办公
-   - 看点：CodeLook 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开发工具方向继续升温
-3. [ARBR](https://www.producthunt.com/products/arbr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
+2. [ARBR](https://www.producthunt.com/products/arbr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：ARBR 是一个围绕开源、开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源、开发工具
    - 看点：ARBR 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
+3. [CodeLook](https://www.producthunt.com/products/codelook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+   - 项目定位：CodeLook 是一个围绕开发工具、效率办公的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：开发工具、效率办公
+   - 看点：CodeLook 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表开发工具方向继续升温
 
 ### 效率办公（2个项目｜GitHub 0｜PH 2）
-1. [Omi](https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
-   - 项目定位：Omi 是一个围绕效率办公、开源、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、开源
-   - 看点：Omi 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-2. [MagiCrew](https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
+1. [MagiCrew](https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
    - 项目定位：MagiCrew 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：MagiCrew 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+2. [Omi](https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
+   - 项目定位：Omi 是一个围绕效率办公、开源、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、开源
+   - 看点：Omi 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
 
 ### 设计创作（2个项目｜GitHub 0｜PH 2）
