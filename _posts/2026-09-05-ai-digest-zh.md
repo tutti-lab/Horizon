@@ -12,9 +12,9 @@ kind: ai
 
 1. 智能体（17个项目｜GitHub 13｜PH 4）
 2. 开发工具（6个项目｜GitHub 1｜PH 5）
-3. 效率办公（4个项目｜GitHub 0｜PH 4）
-4. 数据（4个项目｜GitHub 4｜PH 0）
-5. 开源工具（4个项目｜GitHub 1｜PH 3）
+3. 数据（5个项目｜GitHub 4｜PH 1）
+4. 开源工具（4个项目｜GitHub 1｜PH 3）
+5. 效率办公（3个项目｜GitHub 0｜PH 3）
 6. 设计创作（3个项目｜GitHub 0｜PH 3）
 7. 模型基础设施（1个项目｜GitHub 0｜PH 1）
 
@@ -56,25 +56,7 @@ kind: ai
    - 判断：代表开发工具方向继续升温
 其余项目：averygan/reclip；Offline JS Playground；sidebranch
 
-### 效率办公（4个项目｜GitHub 0｜PH 4）
-1. [myAIcademy](https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
-   - 项目定位：myAIcademy 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：myAIcademy 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-2. [Chalked for Mac](https://www.producthunt.com/products/chalked?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
-   - 项目定位：Chalked for Mac 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、人工智能
-   - 看点：Chalked for Mac 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-3. [Email Health Check by Truelist](https://www.producthunt.com/products/truelist-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
-   - 项目定位：Email Health Check by Truelist 是一个围绕邮件、效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：邮件、效率办公
-   - 看点：Email Health Check by Truelist 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-其余项目：Present: Clock + Weather + Calendar
-
-### 数据（4个项目｜GitHub 4｜PH 0）
+### 数据（5个项目｜GitHub 4｜PH 1）
 1. [google-research/timesfm](https://github.com/google-research/timesfm) | GitHub #9
    - 项目定位：google-research/timesfm 是一个围绕人工智能、数据的数据项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：人工智能、数据
@@ -90,7 +72,7 @@ kind: ai
    - 核心能力：数据、人工智能
    - 看点：Imbad0202/academic-research-skills 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
-其余项目：f/prompts.chat
+其余项目：f/prompts.chat；ALIA
 
 ### 开源工具（4个项目｜GitHub 1｜PH 3）
 1. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | GitHub #11
@@ -109,6 +91,23 @@ kind: ai
    - 看点：Trends 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
 其余项目：SCRUB.
+
+### 效率办公（3个项目｜GitHub 0｜PH 3）
+1. [myAIcademy](https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
+   - 项目定位：myAIcademy 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：myAIcademy 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+2. [Chalked for Mac](https://www.producthunt.com/products/chalked?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+   - 项目定位：Chalked for Mac 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、人工智能
+   - 看点：Chalked for Mac 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+3. [Email Health Check by Truelist](https://www.producthunt.com/products/truelist-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
+   - 项目定位：Email Health Check by Truelist 是一个围绕邮件、效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：邮件、效率办公
+   - 看点：Email Health Check by Truelist 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
 
 ### 设计创作（3个项目｜GitHub 0｜PH 3）
 1. [Compliance by TwelveLabs](https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
