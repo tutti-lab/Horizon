@@ -49,12 +49,12 @@ kind: ai
    - 核心能力：开源工具
    - 看点：AdCar 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Vibrantsnap](https://www.producthunt.com/products/vibrantsnap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
-   - 项目定位：Vibrantsnap 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：开源工具、人工智能
-   - 看点：Vibrantsnap 在 Product Hunt 榜单靠前，说明方向有真实关注度
+3. [RSS to Kindle ](https://www.producthunt.com/products/rss-to-kindle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+   - 项目定位：RSS to Kindle 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：开源工具
+   - 看点：RSS to Kindle 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：RSS to Kindle ；Fylom
+其余项目：Vibrantsnap；Fylom
 
 ### 效率办公（4个项目｜GitHub 0｜PH 4）
 1. [AI Toolbox 3.0](https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
