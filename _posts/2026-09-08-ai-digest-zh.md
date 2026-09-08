@@ -29,12 +29,12 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：mattpocock/skills 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-3. [Tucky](https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
-   - 项目定位：Tucky 是一个围绕效率办公、智能体、人工智能的智能体项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、智能体
-   - 看点：Tucky 在 Product Hunt 榜单靠前，说明方向有真实关注度
+3. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | GitHub #3
+   - 项目定位：cathrynlavery/diagram-design 是一个围绕智能体、Claude生态 / 编程的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：智能体、Claude生态 / 编程
+   - 看点：cathrynlavery/diagram-design 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：cathrynlavery/diagram-design；NousResearch/hermes-agent；Routines by Databox；openai/skills 等19个项目
+其余项目：Tucky；NousResearch/hermes-agent；Routines by Databox；openai/skills 等19个项目
 
 ### 开发工具（6个项目｜GitHub 0｜PH 6）
 1. [PR Lens by Coldtea.ai](https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
@@ -55,7 +55,7 @@ kind: ai
 其余项目：Capslane；CosmoDex；abha.page 2.0
 
 ### 效率办公（5个项目｜GitHub 0｜PH 5）
-1. [Scriptly](https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
+1. [Scriptly](https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
    - 项目定位：Scriptly 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Scriptly 在 Product Hunt 榜单靠前，说明方向有真实关注度
