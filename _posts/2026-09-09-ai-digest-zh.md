@@ -79,7 +79,7 @@ kind: ai
    - 核心能力：开发工具、安全
    - 看点：Replay QA Security Scan 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [SODAX SDK](https://www.producthunt.com/products/sodax?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+2. [SODAX SDK](https://www.producthunt.com/products/sodax?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
    - 项目定位：SODAX SDK 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具
    - 看点：SODAX SDK 在 Product Hunt 榜单靠前，说明方向有真实关注度
