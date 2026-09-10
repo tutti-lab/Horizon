@@ -43,15 +43,15 @@ kind: ai
    - 核心能力：开源工具
    - 看点：Ass Auction 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [DuckFightClub](https://www.producthunt.com/products/duckfightclub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
-   - 项目定位：DuckFightClub 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：开源工具、人工智能
-   - 看点：DuckFightClub 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开源工具方向继续升温
-3. [AlphaGenome Atlas](https://www.producthunt.com/products/alphagenome-atlas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
+2. [AlphaGenome Atlas](https://www.producthunt.com/products/alphagenome-atlas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
    - 项目定位：AlphaGenome Atlas 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：AlphaGenome Atlas 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表开源工具方向继续升温
+3. [DuckFightClub](https://www.producthunt.com/products/duckfightclub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
+   - 项目定位：DuckFightClub 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：开源工具、人工智能
+   - 看点：DuckFightClub 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
 其余项目：Diiverge；AdScope；WorkID.ai
 
