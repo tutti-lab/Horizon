@@ -109,7 +109,7 @@ kind: ai
    - 核心能力：设计 / 开发工具、设计创作
    - 看点：Sliick 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [GLYPH Immersive](https://www.producthunt.com/products/glyph-immersive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+2. [GLYPH Immersive](https://www.producthunt.com/products/glyph-immersive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
    - 项目定位：GLYPH Immersive 是一个围绕设计 / 开发工具、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、设计创作
    - 看点：GLYPH Immersive 在 Product Hunt 榜单靠前，说明方向有真实关注度
