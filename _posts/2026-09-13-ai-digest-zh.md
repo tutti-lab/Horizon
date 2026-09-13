@@ -43,7 +43,7 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Youkti 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [Kabza](https://www.producthunt.com/products/kabza?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
+2. [Kabza](https://www.producthunt.com/products/kabza?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
    - 项目定位：Kabza 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Kabza 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -56,7 +56,7 @@ kind: ai
 其余项目：VoxelWall；Duos 2.0；Coldlineai
 
 ### 效率办公（6个项目｜GitHub 0｜PH 6）
-1. [Calerto for Mac](https://www.producthunt.com/products/calerto-meeting-alarms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
+1. [Calerto for Mac](https://www.producthunt.com/products/calerto-meeting-alarms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
    - 项目定位：Calerto for Mac 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：Calerto for Mac 在 Product Hunt 榜单靠前，说明方向有真实关注度
