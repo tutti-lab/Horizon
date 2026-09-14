@@ -79,12 +79,12 @@ kind: ai
    - 核心能力：设计 / 开发工具、效率办公
    - 看点：Resurf 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [ScreenCursor](https://www.producthunt.com/products/screencursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
+2. [ScreenCursor](https://www.producthunt.com/products/screencursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
    - 项目定位：ScreenCursor 是一个围绕设计创作、效率办公、视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、效率办公
    - 看点：ScreenCursor 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-3. [SHIUI](https://www.producthunt.com/products/shiui-hinomaru-ink-ui-kit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+3. [SHIUI](https://www.producthunt.com/products/shiui-hinomaru-ink-ui-kit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
    - 项目定位：SHIUI 是一个围绕设计 / 开发工具、开源、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、开源
    - 看点：SHIUI 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -92,7 +92,7 @@ kind: ai
 其余项目：Neopress；Best Productivity Resources
 
 ### 开发工具（4个项目｜GitHub 0｜PH 4）
-1. [Cognition's SWE-2](https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
+1. [Cognition's SWE-2](https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
    - 项目定位：Cognition's SWE-2 是一个围绕人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：人工智能
    - 看点：Cognition's SWE-2 在 Product Hunt 榜单靠前，说明方向有真实关注度
