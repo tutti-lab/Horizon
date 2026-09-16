@@ -84,12 +84,12 @@ kind: ai
    - 核心能力：效率办公、人工智能
    - 看点：siift 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [Workshopy.io](https://www.producthunt.com/products/workshopy-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
-   - 项目定位：Workshopy.io 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+3. [Tangerine](https://www.producthunt.com/products/tangerine-zero-click-file-converter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
+   - 项目定位：Tangerine 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
-   - 看点：Workshopy.io 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 看点：Tangerine 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-其余项目：Tangerine
+其余项目：Workshopy.io
 
 ### 设计创作（3个项目｜GitHub 0｜PH 3）
 1. [Narrative](https://www.producthunt.com/products/narrative-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
