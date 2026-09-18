@@ -73,15 +73,15 @@ kind: ai
 其余项目：supabase/supabase；Axiom；SnailSploit/Claude-Red
 
 ### 开源工具（5个项目｜GitHub 0｜PH 5）
-1. [TinyKPI](https://www.producthunt.com/products/tinykpi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
-   - 项目定位：TinyKPI 是一个围绕苹果生态的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：苹果生态
-   - 看点：TinyKPI 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开源工具方向继续升温
-2. [Figo](https://www.producthunt.com/products/figo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+1. [Figo](https://www.producthunt.com/products/figo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
    - 项目定位：Figo 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Figo 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表开源工具方向继续升温
+2. [TinyKPI](https://www.producthunt.com/products/tinykpi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+   - 项目定位：TinyKPI 是一个围绕苹果生态的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：苹果生态
+   - 看点：TinyKPI 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
 3. [Pitchfire for Startups](https://www.producthunt.com/products/pitchfire-for-startups?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
    - 项目定位：Pitchfire for Startups 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
@@ -96,12 +96,12 @@ kind: ai
    - 核心能力：设计创作
    - 看点：CREEM 2.0 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [Zella](https://www.producthunt.com/products/zella?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+2. [Zella](https://www.producthunt.com/products/zella?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
    - 项目定位：Zella 是一个围绕设计创作、人工智能、视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、人工智能
    - 看点：Zella 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-3. [AskDeck](https://www.producthunt.com/products/askdeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+3. [AskDeck](https://www.producthunt.com/products/askdeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：AskDeck 是一个围绕设计 / 开发工具、效率办公、人工智能的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、效率办公
    - 看点：AskDeck 在 Product Hunt 榜单靠前，说明方向有真实关注度
