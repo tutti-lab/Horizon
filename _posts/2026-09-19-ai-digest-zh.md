@@ -48,7 +48,7 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Keysake 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Nepotism Network](https://www.producthunt.com/products/nepo-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
+3. [Nepotism Network](https://www.producthunt.com/products/nepo-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
    - 项目定位：Nepotism Network 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Nepotism Network 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -66,7 +66,7 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：abue-ammar/tinycast 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [Edgee Codex Compressor V2](https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+3. [Edgee Codex Compressor V2](https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
    - 项目定位：Edgee Codex Compressor V2 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具
    - 看点：Edgee Codex Compressor V2 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -108,7 +108,7 @@ kind: ai
    - 判断：代表数据方向继续升温
 
 ### 设计创作（2个项目｜GitHub 0｜PH 2）
-1. [cubicles.lol](https://www.producthunt.com/products/cubicles-lol?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
+1. [cubicles.lol](https://www.producthunt.com/products/cubicles-lol?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
    - 项目定位：cubicles.lol 是一个围绕设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作
    - 看点：cubicles.lol 在 Product Hunt 榜单靠前，说明方向有真实关注度
