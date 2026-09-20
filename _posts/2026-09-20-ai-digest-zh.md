@@ -43,7 +43,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：Mantra Timer 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [Steam Frame](https://www.producthunt.com/products/steam-machine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
+2. [Steam Frame](https://www.producthunt.com/products/steam-machine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
    - 项目定位：Steam Frame 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Steam Frame 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -110,12 +110,12 @@ kind: ai
 其余项目：LucentraCode
 
 ### 设计创作（2个项目｜GitHub 0｜PH 2）
-1. [Lumiko](https://www.producthunt.com/products/lumiko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
+1. [Lumiko](https://www.producthunt.com/products/lumiko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
    - 项目定位：Lumiko 是一个围绕设计创作、效率办公、视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、效率办公
    - 看点：Lumiko 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [Squirrel](https://www.producthunt.com/products/squirrel-screen-time-savings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+2. [Squirrel](https://www.producthunt.com/products/squirrel-screen-time-savings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
    - 项目定位：Squirrel 是一个围绕设计创作、效率办公、金融的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、效率办公
    - 看点：Squirrel 在 Product Hunt 榜单靠前，说明方向有真实关注度
