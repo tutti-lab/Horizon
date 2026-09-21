@@ -70,7 +70,7 @@ kind: ai
    - 核心能力：人工智能
    - 看点：ruanyf/weekly 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：YABAI；Scrapboard Cloud 4；SmartPause；Creads
+其余项目：YABAI；SmartPause；Scrapboard Cloud 4；Creads
 
 ### 数据（5个项目｜GitHub 4｜PH 1）
 1. [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | GitHub #6
