@@ -12,10 +12,10 @@ kind: ai
 
 1. 智能体（15个项目｜GitHub 9｜PH 6）
 2. 开发工具（5个项目｜GitHub 1｜PH 4）
-3. 设计创作（4个项目｜GitHub 0｜PH 4）
-4. 效率办公（3个项目｜GitHub 0｜PH 3）
-5. 开源工具（3个项目｜GitHub 0｜PH 3）
-6. 数据（3个项目｜GitHub 3｜PH 0）
+3. 设计创作（5个项目｜GitHub 0｜PH 5）
+4. 开源工具（3个项目｜GitHub 0｜PH 3）
+5. 数据（3个项目｜GitHub 3｜PH 0）
+6. 效率办公（2个项目｜GitHub 0｜PH 2）
 
 ## 分类项目看板
 
@@ -48,14 +48,14 @@ kind: ai
    - 核心能力：开发工具
    - 看点：mihail911/modern-software-dev-assignments 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [Cronhq](https://www.producthunt.com/products/cronhq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+3. [Cronhq](https://www.producthunt.com/products/cronhq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
    - 项目定位：Cronhq 是一个围绕开源、开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源、开发工具
    - 看点：Cronhq 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
 其余项目：slop-grader；Milliseconds.ai
 
-### 设计创作（4个项目｜GitHub 0｜PH 4）
+### 设计创作（5个项目｜GitHub 0｜PH 5）
 1. [Google Flow for iOS & Android](https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
    - 项目定位：Google Flow for iOS & Android 是一个围绕视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：视频
@@ -66,29 +66,12 @@ kind: ai
    - 核心能力：设计创作、人工智能
    - 看点：AI Creative Insights by Decode 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-3. [Flicka](https://www.producthunt.com/products/flicka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+3. [Flicka](https://www.producthunt.com/products/flicka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
    - 项目定位：Flicka 是一个围绕设计创作、设计 / 开发工具、视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、设计 / 开发工具
    - 看点：Flicka 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-其余项目：Supacut
-
-### 效率办公（3个项目｜GitHub 0｜PH 3）
-1. [Sai](https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
-   - 项目定位：Sai 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、人工智能
-   - 看点：Sai 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-2. [Turfs](https://www.producthunt.com/products/turfs-fences-on-the-mac-desktop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
-   - 项目定位：Turfs 是一个围绕效率办公、苹果生态的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、苹果生态
-   - 看点：Turfs 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-3. [Plume](https://www.producthunt.com/products/plume-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
-   - 项目定位：Plume 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：Plume 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
+其余项目：Supacut；AppGrowthKit
 
 ### 开源工具（3个项目｜GitHub 0｜PH 3）
 1. [Sell to State](https://www.producthunt.com/products/sell-to-state?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
@@ -123,6 +106,18 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：vercel-labs/json-render 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
+
+### 效率办公（2个项目｜GitHub 0｜PH 2）
+1. [Sai](https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
+   - 项目定位：Sai 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、人工智能
+   - 看点：Sai 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+2. [Turfs](https://www.producthunt.com/products/turfs-fences-on-the-mac-desktop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+   - 项目定位：Turfs 是一个围绕效率办公、苹果生态的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、苹果生态
+   - 看点：Turfs 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
 
 ## 后续趋势判断
 
