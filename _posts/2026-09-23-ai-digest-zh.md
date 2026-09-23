@@ -43,15 +43,15 @@ kind: ai
    - 核心能力：开源工具
    - 看点：thestory.run 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [ruanyf/weekly](https://github.com/ruanyf/weekly) | GitHub #10
-   - 项目定位：ruanyf/weekly 是一个围绕人工智能的开源工具项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：人工智能
-   - 看点：ruanyf/weekly 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表开源工具方向继续升温
-3. [MiMo-V2.6](https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+2. [MiMo-V2.6](https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
    - 项目定位：MiMo-V2.6 是一个围绕开源、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源、人工智能
    - 看点：MiMo-V2.6 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表开源工具方向继续升温
+3. [ruanyf/weekly](https://github.com/ruanyf/weekly) | GitHub #10
+   - 项目定位：ruanyf/weekly 是一个围绕人工智能的开源工具项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：人工智能
+   - 看点：ruanyf/weekly 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
 其余项目：Googlebook；Fulvid
 
@@ -92,12 +92,12 @@ kind: ai
 其余项目：yynxxxxx/Codex-X
 
 ### 开发工具（3个项目｜GitHub 0｜PH 3）
-1. [Pulsetic RUM](https://www.producthunt.com/products/pulsetic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+1. [Pulsetic RUM](https://www.producthunt.com/products/pulsetic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
    - 项目定位：Pulsetic RUM 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具
    - 看点：Pulsetic RUM 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [Grok 4.7](https://www.producthunt.com/products/grok-4-7-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+2. [Grok 4.7](https://www.producthunt.com/products/grok-4-7-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：Grok 4.7 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
    - 看点：Grok 4.7 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -109,7 +109,7 @@ kind: ai
    - 判断：代表开发工具方向继续升温
 
 ### 效率办公（3个项目｜GitHub 0｜PH 3）
-1. [Hola AI](https://www.producthunt.com/products/hola-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+1. [Hola AI](https://www.producthunt.com/products/hola-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
    - 项目定位：Hola AI 是一个围绕效率办公、人工智能、音频的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Hola AI 在 Product Hunt 榜单靠前，说明方向有真实关注度
