@@ -35,7 +35,7 @@ kind: ai
    - 核心能力：Anthropic生态、Anthropic生态 / Claude生态
    - 看点：davila7/claude-code-templates 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：BuilderIO/agent-native；NOAN；obra/superpowers；dream-num/univer 等17个项目
+其余项目：BuilderIO/agent-native；obra/superpowers；NOAN；dream-num/univer 等17个项目
 
 ### 开发工具（8个项目｜GitHub 0｜PH 8）
 1. [Scholé Learn by Building](https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
@@ -56,7 +56,7 @@ kind: ai
 其余项目：Opaline；Autonomous Product Delivery；jev-seo；Harness Manager 等5个项目
 
 ### 效率办公（3个项目｜GitHub 0｜PH 3）
-1. [minimi 2.0](https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
+1. [minimi 2.0](https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
    - 项目定位：minimi 2.0 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：minimi 2.0 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -66,7 +66,7 @@ kind: ai
    - 核心能力：效率办公
    - 看点：NotchPop 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [ChoreDivider](https://www.producthunt.com/products/choredivider?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
+3. [ChoreDivider](https://www.producthunt.com/products/choredivider?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
    - 项目定位：ChoreDivider 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：ChoreDivider 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -83,7 +83,7 @@ kind: ai
    - 核心能力：设计创作
    - 看点：Storytailor® 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-3. [LockLines](https://www.producthunt.com/products/locklines?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
+3. [LockLines](https://www.producthunt.com/products/locklines?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
    - 项目定位：LockLines 是一个围绕设计创作、设计 / 开发工具、苹果生态的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、设计 / 开发工具
    - 看点：LockLines 在 Product Hunt 榜单靠前，说明方向有真实关注度
