@@ -11,8 +11,8 @@ kind: ai
 ## 分类热度榜
 
 1. 智能体（13个项目｜GitHub 11｜PH 2）
-2. 效率办公（9个项目｜GitHub 0｜PH 9）
-3. 开源工具（7个项目｜GitHub 0｜PH 7）
+2. 开源工具（8个项目｜GitHub 0｜PH 8）
+3. 效率办公（8个项目｜GitHub 0｜PH 8）
 4. 数据（4个项目｜GitHub 4｜PH 0）
 5. 开发工具（2个项目｜GitHub 1｜PH 1）
 6. 设计创作（1个项目｜GitHub 0｜PH 1）
@@ -37,25 +37,7 @@ kind: ai
    - 判断：代表智能体方向继续升温
 其余项目：vectorize-io/hindsight；obra/superpowers；mattpocock/skills；dream-num/univer 等10个项目
 
-### 效率办公（9个项目｜GitHub 0｜PH 9）
-1. [Fewer](https://www.producthunt.com/products/fewer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
-   - 项目定位：Fewer 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：Fewer 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-2. [Psst](https://www.producthunt.com/products/psst-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
-   - 项目定位：Psst 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：Psst 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-3. [Kleanly](https://www.producthunt.com/products/kleanly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
-   - 项目定位：Kleanly 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：Kleanly 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-其余项目：SOUND；ZenMode OS · Android Launcher；Bump；ButterShare 等6个项目
-
-### 开源工具（7个项目｜GitHub 0｜PH 7）
+### 开源工具（8个项目｜GitHub 0｜PH 8）
 1. [Paragraph Notes](https://www.producthunt.com/products/paragraph-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
    - 项目定位：Paragraph Notes 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
@@ -71,7 +53,25 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Lisen 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：VehicleERP；What to Order；Big Weather；Farao
+其余项目：VehicleERP；What to Order；Big Weather；Farao 等5个项目
+
+### 效率办公（8个项目｜GitHub 0｜PH 8）
+1. [Fewer](https://www.producthunt.com/products/fewer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+   - 项目定位：Fewer 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：Fewer 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+2. [Psst](https://www.producthunt.com/products/psst-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
+   - 项目定位：Psst 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：Psst 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+3. [Kleanly](https://www.producthunt.com/products/kleanly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+   - 项目定位：Kleanly 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：Kleanly 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+其余项目：SOUND；ZenMode OS · Android Launcher；Bump；Brainlist Calendar 等5个项目
 
 ### 数据（4个项目｜GitHub 4｜PH 0）
 1. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | GitHub #2
