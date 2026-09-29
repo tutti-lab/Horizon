@@ -79,15 +79,15 @@ kind: ai
    - 核心能力：设计创作
    - 看点：InfinityLoop1308/PipePipe 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [willfaust/Madeira](https://github.com/willfaust/Madeira) | GitHub #9
-   - 项目定位：willfaust/Madeira 是一个围绕人工智能的设计创作项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：人工智能
-   - 看点：willfaust/Madeira 在 GitHub 榜单靠前，说明方向有真实关注度
-   - 判断：代表设计创作方向继续升温
-3. [Shotcandy](https://www.producthunt.com/products/shotcandy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+2. [Shotcandy](https://www.producthunt.com/products/shotcandy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
    - 项目定位：Shotcandy 是一个围绕设计 / 开发工具、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、设计创作
    - 看点：Shotcandy 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表设计创作方向继续升温
+3. [willfaust/Madeira](https://github.com/willfaust/Madeira) | GitHub #9
+   - 项目定位：willfaust/Madeira 是一个围绕人工智能的设计创作项目，近期在 GitHub Trending 榜单中的关注度较高
+   - 核心能力：人工智能
+   - 看点：willfaust/Madeira 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
 其余项目：Dina 4.5
 
