@@ -85,7 +85,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：America.gov 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Phare C1®](https://www.producthunt.com/products/phare-c1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+3. [Phare C1®](https://www.producthunt.com/products/phare-c1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
    - 项目定位：Phare C1® 是一个围绕开源工具、安全的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、安全
    - 看点：Phare C1® 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -117,7 +117,7 @@ kind: ai
    - 判断：代表效率办公方向继续升温
 
 ### 模型基础设施（1个项目｜GitHub 0｜PH 1）
-1. [JevGPT](https://www.producthunt.com/products/jevgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
+1. [JevGPT](https://www.producthunt.com/products/jevgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：JevGPT 是一个围绕开源、模型基础设施、人工智能的模型基础设施项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源、模型基础设施
    - 看点：JevGPT 在 Product Hunt 榜单靠前，说明方向有真实关注度
