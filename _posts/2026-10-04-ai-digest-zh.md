@@ -52,7 +52,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：Kindle 2026 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：FeelMyMac；FoundrRadio；MacCam；Deskcord.chat
+其余项目：FoundrRadio；FeelMyMac；MacCam；Deskcord.chat
 
 ### 效率办公（5个项目｜GitHub 0｜PH 5）
 1. [una mano](https://www.producthunt.com/products/una-mano?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
