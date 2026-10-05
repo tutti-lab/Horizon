@@ -44,7 +44,7 @@ kind: ai
    - 核心能力：设计创作、设计 / 开发工具
    - 看点：Smooth Recorder 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [ChatGPT Space](https://www.producthunt.com/products/chatgpt-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
+2. [ChatGPT Space](https://www.producthunt.com/products/chatgpt-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
    - 项目定位：ChatGPT Space 是一个围绕设计 / 开发工具、效率办公、人工智能的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、效率办公
    - 看点：ChatGPT Space 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -57,15 +57,15 @@ kind: ai
 其余项目：Thinking Orbs；TinyFolder；LaunchReel；Pixel Soup
 
 ### 开发工具（4个项目｜GitHub 1｜PH 3）
-1. [opensend.cc](https://www.producthunt.com/products/opensend-cc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
-   - 项目定位：opensend.cc 是一个围绕邮件、开源、开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：邮件、开源
-   - 看点：opensend.cc 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开发工具方向继续升温
-2. [DocsAlot MCP Connector](https://www.producthunt.com/products/docsalot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+1. [DocsAlot MCP Connector](https://www.producthunt.com/products/docsalot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
    - 项目定位：DocsAlot MCP Connector 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具
    - 看点：DocsAlot MCP Connector 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表开发工具方向继续升温
+2. [opensend.cc](https://www.producthunt.com/products/opensend-cc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
+   - 项目定位：opensend.cc 是一个围绕邮件、开源、开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：邮件、开源
+   - 看点：opensend.cc 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
 3. [Octri.dev](https://www.producthunt.com/products/octri?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
    - 项目定位：Octri.dev 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
