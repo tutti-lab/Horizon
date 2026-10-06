@@ -61,7 +61,7 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：DailyHelm 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [Oogwai Beacon](https://www.producthunt.com/products/oogwai-beacon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+2. [Oogwai Beacon](https://www.producthunt.com/products/oogwai-beacon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
    - 项目定位：Oogwai Beacon 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：Oogwai Beacon 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -85,19 +85,19 @@ kind: ai
    - 判断：代表模型基础设施方向继续升温
 
 ### 设计创作（2个项目｜GitHub 0｜PH 2）
-1. [Reactive Resume v6](https://www.producthunt.com/products/reactive-resume?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+1. [Reactive Resume v6](https://www.producthunt.com/products/reactive-resume?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
    - 项目定位：Reactive Resume v6 是一个围绕设计 / 开发工具、开源、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、开源
    - 看点：Reactive Resume v6 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [CirclePanel](https://www.producthunt.com/products/circle-panel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+2. [CirclePanel](https://www.producthunt.com/products/circle-panel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
    - 项目定位：CirclePanel 是一个围绕设计 / 开发工具、设计创作、设计的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、设计创作
    - 看点：CirclePanel 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
 
 ### 效率办公（2个项目｜GitHub 0｜PH 2）
-1. [Jarq](https://www.producthunt.com/products/jarq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+1. [Jarq](https://www.producthunt.com/products/jarq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
    - 项目定位：Jarq 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：Jarq 在 Product Hunt 榜单靠前，说明方向有真实关注度
