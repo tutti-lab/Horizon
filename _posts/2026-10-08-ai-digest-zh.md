@@ -26,17 +26,17 @@ kind: ai
    - 核心能力：智能体
    - 看点：tester-army/e2e 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-2. [Velozity](https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
-   - 项目定位：Velozity 是一个围绕效率办公、智能体、人工智能的智能体项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、智能体
-   - 看点：Velozity 在 Product Hunt 榜单靠前，说明方向有真实关注度
+2. [IrisGo for Solopreneurs](https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
+   - 项目定位：IrisGo for Solopreneurs 是一个围绕智能体、人工智能的智能体项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：智能体、人工智能
+   - 看点：IrisGo for Solopreneurs 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
 3. [mattpocock/skills](https://github.com/mattpocock/skills) | GitHub #2
    - 项目定位：mattpocock/skills 是一个围绕人工智能、开发工具、设计创作的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：人工智能、开发工具
    - 看点：mattpocock/skills 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：IrisGo for Solopreneurs；earthtojake/text-to-cad；Databench by Alkera；pbakaus/impeccable 等14个项目
+其余项目：Velozity；earthtojake/text-to-cad；Databench by Alkera；pbakaus/impeccable 等14个项目
 
 ### 开源工具（5个项目｜GitHub 0｜PH 5）
 1. [Ownfeed](https://www.producthunt.com/products/ownfeed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
