@@ -80,7 +80,7 @@ kind: ai
    - 核心能力：设计创作
    - 看点：boykopovar/AnyPS5 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [tide](https://www.producthunt.com/products/tide-simple-self-hostable-video-calls?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+2. [tide](https://www.producthunt.com/products/tide-simple-self-hostable-video-calls?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：tide 是一个围绕开源、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源、设计创作
    - 看点：tide 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -102,7 +102,7 @@ kind: ai
    - 核心能力：隐私、效率办公
    - 看点：Off the Record 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [Hark](https://www.producthunt.com/products/hark-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+3. [Hark](https://www.producthunt.com/products/hark-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
    - 项目定位：Hark 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Hark 在 Product Hunt 榜单靠前，说明方向有真实关注度
