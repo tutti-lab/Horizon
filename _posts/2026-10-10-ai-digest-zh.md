@@ -44,15 +44,15 @@ kind: ai
    - 核心能力：开源、开发工具
    - 看点：Together Link 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [Refs](https://www.producthunt.com/products/refs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
-   - 项目定位：Refs 是一个围绕开发工具、人工智能、视频的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：开发工具、人工智能
-   - 看点：Refs 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开发工具方向继续升温
-3. [storytold/artcraft](https://github.com/storytold/artcraft) | GitHub #8
+2. [storytold/artcraft](https://github.com/storytold/artcraft) | GitHub #8
    - 项目定位：storytold/artcraft 是一个围绕开发工具、人工智能的开发工具项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
    - 看点：storytold/artcraft 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表开发工具方向继续升温
+3. [Refs](https://www.producthunt.com/products/refs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
+   - 项目定位：Refs 是一个围绕开发工具、人工智能、视频的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：开发工具、人工智能
+   - 看点：Refs 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
 其余项目：liquidslr/system-design-notes；Pine Computer；Opposable
 
@@ -62,7 +62,7 @@ kind: ai
    - 核心能力：设计创作
    - 看点：boykopovar/AnyPS5 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [Staffcoder](https://www.producthunt.com/products/staffcoder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
+2. [Staffcoder](https://www.producthunt.com/products/staffcoder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
    - 项目定位：Staffcoder 是一个围绕设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作
    - 看点：Staffcoder 在 Product Hunt 榜单靠前，说明方向有真实关注度
