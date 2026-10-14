@@ -10,8 +10,8 @@ kind: ai
 
 ## 分类热度榜
 
-1. 智能体（13个项目｜GitHub 5｜PH 8）
-2. 开发工具（6个项目｜GitHub 2｜PH 4）
+1. 智能体（12个项目｜GitHub 5｜PH 7）
+2. 开发工具（7个项目｜GitHub 2｜PH 5）
 3. 设计创作（3个项目｜GitHub 0｜PH 3）
 4. 开源工具（3个项目｜GitHub 0｜PH 3）
 5. 数据（2个项目｜GitHub 2｜PH 0）
@@ -19,7 +19,7 @@ kind: ai
 
 ## 分类项目看板
 
-### 智能体（13个项目｜GitHub 5｜PH 8）
+### 智能体（12个项目｜GitHub 5｜PH 7）
 1. [morluto/rea](https://github.com/morluto/rea) | GitHub #1
    - 项目定位：morluto/rea 是一个围绕智能体、人工智能 / 智能体的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：智能体、人工智能 / 智能体
@@ -35,9 +35,9 @@ kind: ai
    - 核心能力：智能体
    - 看点：bilawalsidhu/gods-eye-view 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：OpenCode 2.0；mksglu/context-mode；Muse Wonder；cathrynlavery/diagram-design 等10个项目
+其余项目：OpenCode 2.0；mksglu/context-mode；Muse Wonder；cathrynlavery/diagram-design 等9个项目
 
-### 开发工具（6个项目｜GitHub 2｜PH 4）
+### 开发工具（7个项目｜GitHub 2｜PH 5）
 1. [storytold/artcraft](https://github.com/storytold/artcraft) | GitHub #4
    - 项目定位：storytold/artcraft 是一个围绕开发工具、人工智能的开发工具项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
@@ -53,7 +53,7 @@ kind: ai
    - 核心能力：开发工具
    - 看点：Genchi 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-其余项目：vibesmonitor.com；Servor；GotEmail
+其余项目：vibesmonitor.com；Servor；GotEmail；Remocn Studio
 
 ### 设计创作（3个项目｜GitHub 0｜PH 3）
 1. [Kai](https://www.producthunt.com/products/hirekai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
@@ -83,7 +83,7 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Toby 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Google Fitbit Edge](https://www.producthunt.com/products/google-fit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+3. [Google Fitbit Edge](https://www.producthunt.com/products/google-fit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
    - 项目定位：Google Fitbit Edge 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Google Fitbit Edge 在 Product Hunt 榜单靠前，说明方向有真实关注度
