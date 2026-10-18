@@ -52,7 +52,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：LooGo 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：Unfenced；Spiralens；Draper；Salience
+其余项目：Unfenced；Draper；Spiralens；Salience
 
 ### 效率办公（5个项目｜GitHub 0｜PH 5）
 1. [Caldera](https://www.producthunt.com/products/caldera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
@@ -60,15 +60,15 @@ kind: ai
    - 核心能力：效率办公
    - 看点：Caldera 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [Earnote](https://www.producthunt.com/products/earnote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
-   - 项目定位：Earnote 是一个围绕效率办公、开源的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、开源
-   - 看点：Earnote 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-3. [Parrot](https://www.producthunt.com/products/parrot-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
+2. [Parrot](https://www.producthunt.com/products/parrot-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
    - 项目定位：Parrot 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Parrot 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+3. [Earnote](https://www.producthunt.com/products/earnote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+   - 项目定位：Earnote 是一个围绕效率办公、开源的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、开源
+   - 看点：Earnote 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
 其余项目：NEWCV.IO；Leepik
 
@@ -83,7 +83,7 @@ kind: ai
    - 核心能力：开源、开发工具
    - 看点：GPU Terminal by Context.dev 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [Korinotch](https://www.producthunt.com/products/korinotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+3. [Korinotch](https://www.producthunt.com/products/korinotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
    - 项目定位：Korinotch 是一个围绕开发工具、效率办公的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、效率办公
    - 看点：Korinotch 在 Product Hunt 榜单靠前，说明方向有真实关注度
