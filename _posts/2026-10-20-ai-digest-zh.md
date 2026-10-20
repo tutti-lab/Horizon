@@ -35,10 +35,10 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：anomalyco/opencode 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：cursor/plugins；walkai-talkai；ruvnet/ruflo；akitaonrails/ai-memory 等14个项目
+其余项目：cursor/plugins；ruvnet/ruflo；walkai-talkai；akitaonrails/ai-memory 等14个项目
 
 ### 开发工具（6个项目｜GitHub 2｜PH 4）
-1. [Kai Resolve by Gleap](https://www.producthunt.com/products/gleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
+1. [Kai Resolve by Gleap](https://www.producthunt.com/products/gleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #4
    - 项目定位：Kai Resolve by Gleap 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
    - 看点：Kai Resolve by Gleap 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -61,15 +61,15 @@ kind: ai
    - 核心能力：效率办公、人工智能
    - 看点：readywhen 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [CoolDock](https://www.producthunt.com/products/cooldock-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
-   - 项目定位：CoolDock 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：CoolDock 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-3. [Quello](https://www.producthunt.com/products/quello?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+2. [Quello](https://www.producthunt.com/products/quello?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
    - 项目定位：Quello 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Quello 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+3. [CoolDock](https://www.producthunt.com/products/cooldock-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+   - 项目定位：CoolDock 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：CoolDock 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
 其余项目：Switch Lab；Umbra Mail
 
