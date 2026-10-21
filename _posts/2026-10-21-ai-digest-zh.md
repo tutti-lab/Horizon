@@ -61,7 +61,7 @@ kind: ai
    - 核心能力：设计 / 开发工具、设计创作
    - 看点：Inflight 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [Kling 4.0](https://www.producthunt.com/products/kling-4-0-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+2. [Kling 4.0](https://www.producthunt.com/products/kling-4-0-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
    - 项目定位：Kling 4.0 是一个围绕设计 / 开发工具、人工智能、视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、人工智能
    - 看点：Kling 4.0 在 Product Hunt 榜单靠前，说明方向有真实关注度
