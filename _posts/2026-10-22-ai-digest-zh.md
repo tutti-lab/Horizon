@@ -35,7 +35,7 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：cloudflare/security-audit-skill 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：BAND for Developers；stablyai/orca；Needle；DietrichGebert/ponytail 等16个项目
+其余项目：Needle；stablyai/orca；BAND for Developers；DietrichGebert/ponytail 等16个项目
 
 ### 开发工具（6个项目｜GitHub 1｜PH 5）
 1. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | GitHub #5
@@ -61,7 +61,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：The Library 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [Tend](https://www.producthunt.com/products/tend-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+2. [Tend](https://www.producthunt.com/products/tend-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
    - 项目定位：Tend 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：Tend 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -84,7 +84,7 @@ kind: ai
    - 核心能力：效率办公
    - 看点：Yarite 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [Burrow MacOS](https://www.producthunt.com/products/burrow-macos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+3. [Burrow MacOS](https://www.producthunt.com/products/burrow-macos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：Burrow MacOS 是一个围绕效率办公、开源的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、开源
    - 看点：Burrow MacOS 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -103,7 +103,7 @@ kind: ai
    - 判断：代表数据方向继续升温
 
 ### 设计创作（1个项目｜GitHub 0｜PH 1）
-1. [iglass](https://www.producthunt.com/products/iglass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
+1. [iglass](https://www.producthunt.com/products/iglass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
    - 项目定位：iglass 是一个围绕设计创作、设计 / 开发工具、开源的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、设计 / 开发工具
    - 看点：iglass 在 Product Hunt 榜单靠前，说明方向有真实关注度
