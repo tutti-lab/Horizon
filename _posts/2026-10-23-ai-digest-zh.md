@@ -80,7 +80,7 @@ kind: ai
    - 核心能力：设计创作、视频
    - 看点：Dadan 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [Voxelo 3.0](https://www.producthunt.com/products/voxelo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+2. [Voxelo 3.0](https://www.producthunt.com/products/voxelo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：Voxelo 3.0 是一个围绕人工智能、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：人工智能、设计创作
    - 看点：Voxelo 3.0 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -105,7 +105,7 @@ kind: ai
    - 判断：代表效率办公方向继续升温
 
 ### 开源工具（2个项目｜GitHub 0｜PH 2）
-1. [ElevenLabs Realtime Translation](https://www.producthunt.com/products/elevenlabs-realtime-translation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+1. [ElevenLabs Realtime Translation](https://www.producthunt.com/products/elevenlabs-realtime-translation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
    - 项目定位：ElevenLabs Realtime Translation 是一个围绕开源工具、音频的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、音频
    - 看点：ElevenLabs Realtime Translation 在 Product Hunt 榜单靠前，说明方向有真实关注度
