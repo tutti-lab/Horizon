@@ -66,7 +66,7 @@ kind: ai
    - 核心能力：数据
    - 看点：fastapi/fastapi 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
-3. [Cloudflare Clairic](https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+3. [Cloudflare Clairic](https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
    - 项目定位：Cloudflare Clairic 是一个围绕开发工具、人工智能、数据的数据项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
    - 看点：Cloudflare Clairic 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -79,12 +79,12 @@ kind: ai
    - 核心能力：设计创作、开发工具
    - 看点：Product Hunt Visual Launch Editor 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [FLUX 3 Max](https://www.producthunt.com/products/fal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #8
+2. [FLUX 3 Max](https://www.producthunt.com/products/fal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
    - 项目定位：FLUX 3 Max 是一个围绕人工智能的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：人工智能
    - 看点：FLUX 3 Max 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-3. [Dots](https://www.producthunt.com/products/dots-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+3. [Dots](https://www.producthunt.com/products/dots-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：Dots 是一个围绕设计创作、苹果生态的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、苹果生态
    - 看点：Dots 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -96,7 +96,7 @@ kind: ai
    - 核心能力：效率办公、人工智能
    - 看点：ShogunAI 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [Instant Search](https://www.producthunt.com/products/instant-search-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+2. [Instant Search](https://www.producthunt.com/products/instant-search-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
    - 项目定位：Instant Search 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：Instant Search 在 Product Hunt 榜单靠前，说明方向有真实关注度
