@@ -44,7 +44,7 @@ kind: ai
    - 核心能力：开发工具、编程
    - 看点：myPip 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [LinkIntel](https://www.producthunt.com/products/linkintel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
+2. [LinkIntel](https://www.producthunt.com/products/linkintel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
    - 项目定位：LinkIntel 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具
    - 看点：LinkIntel 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -75,17 +75,17 @@ kind: ai
 其余项目：Byter；Basedash Scheduled CSV Exports
 
 ### 设计创作（3个项目｜GitHub 0｜PH 3）
-1. [Canva Craft](https://www.producthunt.com/products/canva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
+1. [Canva Craft](https://www.producthunt.com/products/canva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
    - 项目定位：Canva Craft 是一个围绕设计 / 开发工具、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、设计创作
    - 看点：Canva Craft 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [River Writer](https://www.producthunt.com/products/river-writer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+2. [River Writer](https://www.producthunt.com/products/river-writer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
    - 项目定位：River Writer 是一个围绕效率办公、开源、设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、开源
    - 看点：River Writer 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-3. [Surveys in Claude and ChatGPT](https://www.producthunt.com/products/blocksurvey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
+3. [Surveys in Claude and ChatGPT](https://www.producthunt.com/products/blocksurvey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
    - 项目定位：Surveys in Claude and ChatGPT 是一个围绕隐私、人工智能、编程的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：隐私、人工智能
    - 看点：Surveys in Claude and ChatGPT 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -114,7 +114,7 @@ kind: ai
    - 核心能力：效率办公、人工智能
    - 看点：sideOS.ai 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [Kept](https://www.producthunt.com/products/kept-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+2. [Kept](https://www.producthunt.com/products/kept-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
    - 项目定位：Kept 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：Kept 在 Product Hunt 榜单靠前，说明方向有真实关注度
