@@ -71,7 +71,7 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：pollen-robotics/microduck 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-其余项目：Revix AI；fswitcher
+其余项目：fswitcher；Revix AI
 
 ### 效率办公（2个项目｜GitHub 0｜PH 2）
 1. [Orbit](https://www.producthunt.com/products/orbit-app-blocker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
