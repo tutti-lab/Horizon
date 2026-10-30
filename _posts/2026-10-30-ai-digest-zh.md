@@ -11,8 +11,8 @@ kind: ai
 ## 分类热度榜
 
 1. 智能体（16个项目｜GitHub 11｜PH 5）
-2. 效率办公（6个项目｜GitHub 0｜PH 6）
-3. 开发工具（5个项目｜GitHub 2｜PH 3）
+2. 开发工具（6个项目｜GitHub 2｜PH 4）
+3. 效率办公（5个项目｜GitHub 0｜PH 5）
 4. 设计创作（3个项目｜GitHub 0｜PH 3）
 5. 模型基础设施（2个项目｜GitHub 0｜PH 2）
 6. 数据（2个项目｜GitHub 1｜PH 1）
@@ -37,25 +37,7 @@ kind: ai
    - 判断：代表智能体方向继续升温
 其余项目：macro-inc/macro；Gologin Cloud Browser；Nutlope/hallmark；pbakaus/impeccable 等13个项目
 
-### 效率办公（6个项目｜GitHub 0｜PH 6）
-1. [Empacer](https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
-   - 项目定位：Empacer 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、人工智能
-   - 看点：Empacer 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-2. [IFTTT.ai](https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
-   - 项目定位：IFTTT.ai 是一个围绕效率办公、人工智能、编程的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、人工智能
-   - 看点：IFTTT.ai 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-3. [Suno MCP](https://www.producthunt.com/products/suno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
-   - 项目定位：Suno MCP 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、人工智能
-   - 看点：Suno MCP 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-其余项目：Smart Jelly；AutoShelf 2.6；ChatInbox
-
-### 开发工具（5个项目｜GitHub 2｜PH 3）
+### 开发工具（6个项目｜GitHub 2｜PH 4）
 1. [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | GitHub #2
    - 项目定位：elayadesign/ai-design-skills 是一个围绕人工智能、开发工具、设计创作的开发工具项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：人工智能、开发工具
@@ -71,7 +53,25 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：xiaolai/the-craft-of-selfteaching 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-其余项目：Kin；StoreLocale
+其余项目：Kin；StoreLocale；MAO
+
+### 效率办公（5个项目｜GitHub 0｜PH 5）
+1. [Empacer](https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
+   - 项目定位：Empacer 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、人工智能
+   - 看点：Empacer 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+2. [IFTTT.ai](https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+   - 项目定位：IFTTT.ai 是一个围绕效率办公、人工智能、编程的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、人工智能
+   - 看点：IFTTT.ai 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+3. [Suno MCP](https://www.producthunt.com/products/suno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+   - 项目定位：Suno MCP 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、人工智能
+   - 看点：Suno MCP 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+其余项目：Smart Jelly；AutoShelf 2.6
 
 ### 设计创作（3个项目｜GitHub 0｜PH 3）
 1. [Scape](https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
