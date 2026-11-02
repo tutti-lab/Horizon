@@ -61,12 +61,12 @@ kind: ai
    - 核心能力：效率办公
    - 看点：Yuzu Sync 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [Hamdori](https://www.producthunt.com/products/hamdori?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
+2. [Hamdori](https://www.producthunt.com/products/hamdori?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
    - 项目定位：Hamdori 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：Hamdori 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [Usage for Claude + ChatGPT 4.0](https://www.producthunt.com/products/usage-for-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+3. [Usage for Claude + ChatGPT 4.0](https://www.producthunt.com/products/usage-for-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：Usage for Claude + ChatGPT 4.0 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Usage for Claude + ChatGPT 4.0 在 Product Hunt 榜单靠前，说明方向有真实关注度
