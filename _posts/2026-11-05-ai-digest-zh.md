@@ -36,7 +36,7 @@ kind: ai
    - 核心能力：智能体、Claude生态 / 编程
    - 看点：max-sixty/worktrunk 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：OpenMail；mattpocock/skills；Render Sandboxes；spotify/portal-ai-plugins 等11个项目
+其余项目：Render Sandboxes；mattpocock/skills；OpenMail；spotify/portal-ai-plugins 等11个项目
 
 ### 开源工具（5个项目｜GitHub 0｜PH 5）
 1. [Wanaka Studio](https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
