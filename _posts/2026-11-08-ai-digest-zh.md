@@ -62,15 +62,15 @@ kind: ai
    - 核心能力：效率办公
    - 看点：seam 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-2. [The Writer's Quarter](https://www.producthunt.com/products/the-writer-s-quarter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
-   - 项目定位：The Writer's Quarter 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：The Writer's Quarter 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
-3. [Fleeep](https://www.producthunt.com/products/fleeep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+2. [Fleeep](https://www.producthunt.com/products/fleeep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
    - 项目定位：Fleeep 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公
    - 看点：Fleeep 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+3. [The Writer's Quarter](https://www.producthunt.com/products/the-writer-s-quarter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+   - 项目定位：The Writer's Quarter 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：The Writer's Quarter 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
 其余项目：Sendoff；ClarifierAI for Chrome；Deal Pilot；Capnot
 
@@ -110,7 +110,7 @@ kind: ai
    - 核心能力：数据
    - 看点：lz4/lz4 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
-2. [Trace by Context.dev](https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+2. [Trace by Context.dev](https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：Trace by Context.dev 是一个围绕数据、人工智能的数据项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：数据、人工智能
    - 看点：Trace by Context.dev 在 Product Hunt 榜单靠前，说明方向有真实关注度
