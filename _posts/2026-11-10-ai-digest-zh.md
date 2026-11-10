@@ -47,12 +47,12 @@ kind: ai
    - 核心能力：开发工具、人工智能
    - 看点：ProtoMap 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [GitHub New PR Overview](https://www.producthunt.com/products/github?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
-   - 项目定位：GitHub New PR Overview 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：开发工具
-   - 看点：GitHub New PR Overview 在 Product Hunt 榜单靠前，说明方向有真实关注度
+3. [MCP1](https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+   - 项目定位：MCP1 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：开发工具、人工智能
+   - 看点：MCP1 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-其余项目：MCP1；ClipsPal；CozyZip
+其余项目：GitHub New PR Overview；ClipsPal；CozyZip
 
 ### 开源工具（5个项目｜GitHub 0｜PH 5）
 1. [Dageno AI 2.0](https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
@@ -70,7 +70,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：If You Read This 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：Calmly Script；KIKUmap
+其余项目：KIKUmap；Calmly Script
 
 ### 设计创作（4个项目｜GitHub 0｜PH 4）
 1. [Higgsfield Miracle](https://www.producthunt.com/products/higgsfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
