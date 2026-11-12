@@ -54,7 +54,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：Reddit Reviews 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：Kippy AI；Xolace
+其余项目：Xolace；Kippy AI
 
 ### 设计创作（3个项目｜GitHub 0｜PH 3）
 1. [MiniMax H3-Image](https://www.producthunt.com/products/minimax?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
@@ -74,7 +74,7 @@ kind: ai
    - 判断：代表设计创作方向继续升温
 
 ### 效率办公（3个项目｜GitHub 0｜PH 3）
-1. [Valin](https://www.producthunt.com/products/valin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
+1. [Valin](https://www.producthunt.com/products/valin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
    - 项目定位：Valin 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Valin 在 Product Hunt 榜单靠前，说明方向有真实关注度
