@@ -67,7 +67,7 @@ kind: ai
    - 核心能力：开源工具
    - 看点：Uber Parking 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Drops](https://www.producthunt.com/products/drops-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+3. [Drops](https://www.producthunt.com/products/drops-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
    - 项目定位：Drops 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Drops 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -103,27 +103,27 @@ kind: ai
    - 判断：代表模型基础设施方向继续升温
 
 ### 设计创作（2个项目｜GitHub 0｜PH 2）
-1. [Tabletop by Google Labs](https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+1. [Tabletop by Google Labs](https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：Tabletop by Google Labs 是一个围绕效率办公、设计创作、人工智能的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、设计创作
    - 看点：Tabletop by Google Labs 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [ScreenGo](https://www.producthunt.com/products/screengo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+2. [ScreenGo](https://www.producthunt.com/products/screengo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
    - 项目定位：ScreenGo 是一个围绕效率办公、视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、视频
    - 看点：ScreenGo 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
 
 ### 开发工具（2个项目｜GitHub 0｜PH 2）
-1. [Nexus](https://www.producthunt.com/products/project-nexus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #19
-   - 项目定位：Nexus 是一个围绕效率办公、开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公、开发工具
-   - 看点：Nexus 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开发工具方向继续升温
-2. [CodeMesh](https://www.producthunt.com/products/codemesh-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
+1. [CodeMesh](https://www.producthunt.com/products/codemesh-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
    - 项目定位：CodeMesh 是一个围绕开发工具、编程的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、编程
    - 看点：CodeMesh 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表开发工具方向继续升温
+2. [Nexus](https://www.producthunt.com/products/project-nexus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
+   - 项目定位：Nexus 是一个围绕效率办公、开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、开发工具
+   - 看点：Nexus 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
 
 ## 后续趋势判断
