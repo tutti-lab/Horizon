@@ -65,7 +65,7 @@ kind: ai
    - 核心能力：开源工具、开源
    - 看点：Cookie Away 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Pharen Hub](https://www.producthunt.com/products/pharen-hub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
+3. [Pharen Hub](https://www.producthunt.com/products/pharen-hub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
    - 项目定位：Pharen Hub 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：Pharen Hub 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -78,7 +78,7 @@ kind: ai
    - 核心能力：人工智能 / 安全、Anthropic生态
    - 看点：elementalsouls/Claude-BugHunter 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表数据方向继续升温
-2. [Trusty CSV](https://www.producthunt.com/products/trusty-csv?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
+2. [Trusty CSV](https://www.producthunt.com/products/trusty-csv?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #9
    - 项目定位：Trusty CSV 是一个围绕数据的数据项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：数据
    - 看点：Trusty CSV 在 Product Hunt 榜单靠前，说明方向有真实关注度
