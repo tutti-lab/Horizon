@@ -80,12 +80,12 @@ kind: ai
    - 核心能力：开源工具
    - 看点：Creatify Max 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [Clamor](https://www.producthunt.com/products/clamor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+2. [Clamor](https://www.producthunt.com/products/clamor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：Clamor 是一个围绕开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具
    - 看点：Clamor 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [AI Visibility by TruLata](https://www.producthunt.com/products/trulata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
+3. [AI Visibility by TruLata](https://www.producthunt.com/products/trulata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
    - 项目定位：AI Visibility by TruLata 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：AI Visibility by TruLata 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -111,7 +111,7 @@ kind: ai
    - 判断：代表效率办公方向继续升温
 
 ### 模型基础设施（1个项目｜GitHub 0｜PH 1）
-1. [Liquid d1.2](https://www.producthunt.com/products/lfm2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
+1. [Liquid d1.2](https://www.producthunt.com/products/lfm2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：Liquid d1.2 是一个围绕人工智能的模型基础设施项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：人工智能
    - 看点：Liquid d1.2 在 Product Hunt 榜单靠前，说明方向有真实关注度
