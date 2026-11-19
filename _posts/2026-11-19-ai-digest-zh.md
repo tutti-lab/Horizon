@@ -84,7 +84,7 @@ kind: ai
    - 核心能力：设计创作、界面
    - 看点：sveltejs/svelte 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-3. [Arcade](https://www.producthunt.com/products/arcade?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+3. [Arcade](https://www.producthunt.com/products/arcade?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：Arcade 是一个围绕设计创作、视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、视频
    - 看点：Arcade 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -96,7 +96,7 @@ kind: ai
    - 核心能力：效率办公、开发工具
    - 看点：Review Box 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [Replay QA Self-healing Mode](https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #13
+2. [Replay QA Self-healing Mode](https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
    - 项目定位：Replay QA Self-healing Mode 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具
    - 看点：Replay QA Self-healing Mode 在 Product Hunt 榜单靠前，说明方向有真实关注度
