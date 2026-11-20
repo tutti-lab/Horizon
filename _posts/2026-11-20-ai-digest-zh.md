@@ -31,15 +31,15 @@ kind: ai
    - 核心能力：人工智能、开发工具
    - 看点：HKUDS/CLI-Anything 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-3. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | GitHub #3
-   - 项目定位：mvanhorn/last30days-skill 是一个围绕人工智能、智能体的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
-   - 核心能力：人工智能、智能体
-   - 看点：mvanhorn/last30days-skill 在 GitHub 榜单靠前，说明方向有真实关注度
+3. [Netlify Server](https://www.producthunt.com/products/netlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
+   - 项目定位：Netlify Server 是一个围绕智能体、开发工具、人工智能的智能体项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：智能体、开发工具
+   - 看点：Netlify Server 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-其余项目：Netlify Server；NVIDIA/SkillEvaluator；Adside；nvm-sh/nvm 等13个项目
+其余项目：mvanhorn/last30days-skill；NVIDIA/SkillEvaluator；Adside；nvm-sh/nvm 等13个项目
 
 ### 开发工具（7个项目｜GitHub 1｜PH 6）
-1. [Verse Engine by Ctruh](https://www.producthunt.com/products/verse-engine-by-ctruh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
+1. [Verse Engine by Ctruh](https://www.producthunt.com/products/verse-engine-by-ctruh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
    - 项目定位：Verse Engine by Ctruh 是一个围绕开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具
    - 看点：Verse Engine by Ctruh 在 Product Hunt 榜单靠前，说明方向有真实关注度
