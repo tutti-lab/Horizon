@@ -66,12 +66,12 @@ kind: ai
    - 核心能力：效率办公、开源
    - 看点：Smorza 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [SuperMailbox](https://www.producthunt.com/products/supermailbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
-   - 项目定位：SuperMailbox 是一个围绕邮件、效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：邮件、效率办公
-   - 看点：SuperMailbox 在 Product Hunt 榜单靠前，说明方向有真实关注度
+3. [LoudFlow](https://www.producthunt.com/products/loudflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #18
+   - 项目定位：LoudFlow 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公、人工智能
+   - 看点：LoudFlow 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-其余项目：LoudFlow
+其余项目：SuperMailbox
 
 ### 开发工具（3个项目｜GitHub 0｜PH 3）
 1. [AlterContacts](https://www.producthunt.com/products/alter-contacts-ai-client-relationships?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
