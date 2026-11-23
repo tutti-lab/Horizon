@@ -56,7 +56,7 @@ kind: ai
 其余项目：nginx/nginx；openvinotoolkit/openvino；toeverything/AFFiNE
 
 ### 开源工具（5个项目｜GitHub 0｜PH 5）
-1. [Rankhog](https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
+1. [Rankhog](https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
    - 项目定位：Rankhog 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：Rankhog 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -92,7 +92,7 @@ kind: ai
 其余项目：Zapyso；DeNotch
 
 ### 设计创作（4个项目｜GitHub 0｜PH 4）
-1. [Yoroll](https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
+1. [Yoroll](https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #1
    - 项目定位：Yoroll 是一个围绕人工智能、设计创作、编程的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：人工智能、设计创作
    - 看点：Yoroll 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -120,7 +120,7 @@ kind: ai
    - 核心能力：开发工具、效率办公
    - 看点：Copy Haste 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [30yr-uptime](https://www.producthunt.com/products/30yr-uptime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
+3. [30yr-uptime](https://www.producthunt.com/products/30yr-uptime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
    - 项目定位：30yr-uptime 是一个围绕开发工具、效率办公的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、效率办公
    - 看点：30yr-uptime 在 Product Hunt 榜单靠前，说明方向有真实关注度
