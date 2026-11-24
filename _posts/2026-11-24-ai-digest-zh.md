@@ -25,15 +25,15 @@ kind: ai
    - 核心能力：人工智能、智能体
    - 看点：obra/superpowers 在 GitHub 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
-2. [Gauth Personal Study Agent](https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
-   - 项目定位：Gauth Personal Study Agent 是一个围绕智能体、人工智能的智能体项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：智能体、人工智能
-   - 看点：Gauth Personal Study Agent 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表智能体方向继续升温
-3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | GitHub #3
+2. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | GitHub #3
    - 项目定位：HKUDS/CLI-Anything 是一个围绕人工智能、开发工具、数据的智能体项目，近期在 GitHub Trending 榜单中的关注度较高
    - 核心能力：人工智能、开发工具
    - 看点：HKUDS/CLI-Anything 在 GitHub 榜单靠前，说明方向有真实关注度
+   - 判断：代表智能体方向继续升温
+3. [Gauth Personal Study Agent](https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
+   - 项目定位：Gauth Personal Study Agent 是一个围绕智能体、人工智能的智能体项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：智能体、人工智能
+   - 看点：Gauth Personal Study Agent 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表智能体方向继续升温
 其余项目：firecrawl/firecrawl；Polylane Swarms；cathrynlavery/diagram-design；mvanhorn/last30days-skill 等11个项目
 
@@ -79,12 +79,12 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Dog Translator SuperTranslator 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-2. [Tesla Self-Driving V15](https://www.producthunt.com/products/tesla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+2. [Tesla Self-Driving V15](https://www.producthunt.com/products/tesla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #12
    - 项目定位：Tesla Self-Driving V15 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：Tesla Self-Driving V15 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-3. [Othor AI](https://www.producthunt.com/products/othor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
+3. [Othor AI](https://www.producthunt.com/products/othor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
    - 项目定位：Othor AI 是一个围绕开源、开源工具的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源、开源工具
    - 看点：Othor AI 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -92,7 +92,7 @@ kind: ai
 其余项目：Ashwa
 
 ### 设计创作（2个项目｜GitHub 0｜PH 2）
-1. [Motionflare](https://www.producthunt.com/products/motionflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #3
+1. [Motionflare](https://www.producthunt.com/products/motionflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #2
    - 项目定位：Motionflare 是一个围绕设计创作、人工智能、视频的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作、人工智能
    - 看点：Motionflare 在 Product Hunt 榜单靠前，说明方向有真实关注度
