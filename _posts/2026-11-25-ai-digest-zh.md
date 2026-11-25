@@ -11,11 +11,11 @@ kind: ai
 ## 分类热度榜
 
 1. 智能体（14个项目｜GitHub 10｜PH 4）
-2. 开源工具（9个项目｜GitHub 0｜PH 9）
+2. 开源工具（8个项目｜GitHub 0｜PH 8）
 3. 数据（6个项目｜GitHub 6｜PH 0）
 4. 开发工具（4个项目｜GitHub 0｜PH 4）
-5. 设计创作（2个项目｜GitHub 0｜PH 2）
-6. 效率办公（1个项目｜GitHub 0｜PH 1）
+5. 效率办公（2个项目｜GitHub 0｜PH 2）
+6. 设计创作（2个项目｜GitHub 0｜PH 2）
 
 ## 分类项目看板
 
@@ -37,8 +37,8 @@ kind: ai
    - 判断：代表智能体方向继续升温
 其余项目：Clam AI；Viktor Code；firecrawl/firecrawl；cathrynlavery/diagram-design 等11个项目
 
-### 开源工具（9个项目｜GitHub 0｜PH 9）
-1. [frwrd.to](https://www.producthunt.com/products/frwrd-to?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
+### 开源工具（8个项目｜GitHub 0｜PH 8）
+1. [frwrd.to](https://www.producthunt.com/products/frwrd-to?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
    - 项目定位：frwrd.to 是一个围绕开源工具、人工智能的开源工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源工具、人工智能
    - 看点：frwrd.to 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -53,7 +53,7 @@ kind: ai
    - 核心能力：开源工具、人工智能
    - 看点：Valley 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开源工具方向继续升温
-其余项目：doola MCP；Willow iOS 2.0；Pinned；Astor 等6个项目
+其余项目：doola MCP；Willow iOS 2.0；Pinned；Astor 等5个项目
 
 ### 数据（6个项目｜GitHub 6｜PH 0）
 1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | GitHub #1
@@ -79,7 +79,7 @@ kind: ai
    - 核心能力：开发工具
    - 看点：distribution.dev 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [Claude Ship](https://www.producthunt.com/products/claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #7
+2. [Claude Ship](https://www.producthunt.com/products/claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #6
    - 项目定位：Claude Ship 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
    - 看点：Claude Ship 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -91,24 +91,29 @@ kind: ai
    - 判断：代表开发工具方向继续升温
 其余项目：HeroUI Pro 1.0
 
+### 效率办公（2个项目｜GitHub 0｜PH 2）
+1. [SparrowDesk Phone Calls](https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
+   - 项目定位：SparrowDesk Phone Calls 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：SparrowDesk Phone Calls 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+2. [Juncts](https://www.producthunt.com/products/juncts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #20
+   - 项目定位：Juncts 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：效率办公
+   - 看点：Juncts 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表效率办公方向继续升温
+
 ### 设计创作（2个项目｜GitHub 0｜PH 2）
 1. [Agenda Hero Magic Labs](https://www.producthunt.com/products/agenda-hero-magic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
    - 项目定位：Agenda Hero Magic Labs 是一个围绕设计 / 开发工具、日历、人工智能的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计 / 开发工具、日历
    - 看点：Agenda Hero Magic Labs 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-2. [Drift](https://www.producthunt.com/products/drift-aef4d3de-e971-402b-b62f-613b9c79b4cd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #17
+2. [Drift](https://www.producthunt.com/products/drift-aef4d3de-e971-402b-b62f-613b9c79b4cd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #16
    - 项目定位：Drift 是一个围绕设计创作的设计创作项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：设计创作
    - 看点：Drift 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表设计创作方向继续升温
-
-### 效率办公（1个项目｜GitHub 0｜PH 1）
-1. [SparrowDesk Phone Calls](https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #5
-   - 项目定位：SparrowDesk Phone Calls 是一个围绕效率办公的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：效率办公
-   - 看点：SparrowDesk Phone Calls 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表效率办公方向继续升温
 
 ## 后续趋势判断
 
