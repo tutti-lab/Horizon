@@ -80,15 +80,15 @@ kind: ai
    - 核心能力：开发工具、人工智能
    - 看点：Omi X 2.0 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-2. [3way.Social MCP](https://www.producthunt.com/products/3way-social?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
-   - 项目定位：3way.Social MCP 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
-   - 核心能力：开发工具、人工智能
-   - 看点：3way.Social MCP 在 Product Hunt 榜单靠前，说明方向有真实关注度
-   - 判断：代表开发工具方向继续升温
-3. [RelayRunner](https://www.producthunt.com/products/relayrunner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+2. [RelayRunner](https://www.producthunt.com/products/relayrunner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #10
    - 项目定位：RelayRunner 是一个围绕开源、开发工具的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开源、开发工具
    - 看点：RelayRunner 在 Product Hunt 榜单靠前，说明方向有真实关注度
+   - 判断：代表开发工具方向继续升温
+3. [3way.Social MCP](https://www.producthunt.com/products/3way-social?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #11
+   - 项目定位：3way.Social MCP 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
+   - 核心能力：开发工具、人工智能
+   - 看点：3way.Social MCP 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
 其余项目：Tray
 
