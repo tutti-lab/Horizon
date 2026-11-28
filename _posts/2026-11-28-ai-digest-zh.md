@@ -83,7 +83,7 @@ kind: ai
    - 核心能力：开发工具
    - 看点：Espresso 27 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表开发工具方向继续升温
-3. [gpyou](https://www.producthunt.com/products/gpyou?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
+3. [gpyou](https://www.producthunt.com/products/gpyou?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
    - 项目定位：gpyou 是一个围绕开发工具、人工智能的开发工具项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：开发工具、人工智能
    - 看点：gpyou 在 Product Hunt 榜单靠前，说明方向有真实关注度
@@ -100,7 +100,7 @@ kind: ai
    - 核心能力：效率办公、人工智能
    - 看点：Woomool 在 Product Hunt 榜单靠前，说明方向有真实关注度
    - 判断：代表效率办公方向继续升温
-3. [Onset](https://www.producthunt.com/products/onset?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #15
+3. [Onset](https://www.producthunt.com/products/onset?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+local+%28ID%3A+284519%29) | Product Hunt #14
    - 项目定位：Onset 是一个围绕效率办公、人工智能的效率办公项目，近期在 Product Hunt 榜单中的关注度较高
    - 核心能力：效率办公、人工智能
    - 看点：Onset 在 Product Hunt 榜单靠前，说明方向有真实关注度
